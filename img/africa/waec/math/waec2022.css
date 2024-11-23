@@ -1,0 +1,68 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_mathematics_2022_paper_q_20 {max-width:275px; max-height:206px; }
+.waec_mathematics_2022_paper_q_20::after {content: '\00a0';display: inline-block; width:275px; height:206px; background-position: 55.19203413940256% 91.54411764705883%; background-size: 355.6363636363636% 232.03883495145632%; background-image: url(waec2022_0.png);padding: 0; }
+div.waec_mathematics_2022_paper_q_20::after {max-width:275px; width:100%;height:0;padding: 0 0 74.9090909090909% 0;}
+.waec_mathematics_2022_paper_q_21 {max-width:275px; max-height:206px; }
+.waec_mathematics_2022_paper_q_21::after {content: '\00a0';display: inline-block; width:275px; height:206px; background-position: 55.19203413940256% 91.54411764705883%; background-size: 355.6363636363636% 232.03883495145632%; background-image: url(waec2022_0.png);padding: 0; }
+div.waec_mathematics_2022_paper_q_21::after {max-width:275px; width:100%;height:0;padding: 0 0 74.9090909090909% 0;}
+.waec_mathematics_2022_paper_q_24 {max-width:386px; max-height:206px; }
+.waec_mathematics_2022_paper_q_24::after {content: '\00a0';display: inline-block; width:386px; height:206px; background-position: 0.16891891891891891% 99.63235294117646%; background-size: 253.3678756476684% 232.03883495145632%; background-image: url(waec2022_0.png);padding: 0; }
+div.waec_mathematics_2022_paper_q_24::after {max-width:386px; width:100%;height:0;padding: 0 0 53.36787564766839% 0;}
+.waec_mathematics_2022_paper_q_25 {max-width:386px; max-height:206px; }
+.waec_mathematics_2022_paper_q_25::after {content: '\00a0';display: inline-block; width:386px; height:206px; background-position: 0.16891891891891891% 99.63235294117646%; background-size: 253.3678756476684% 232.03883495145632%; background-image: url(waec2022_0.png);padding: 0; }
+div.waec_mathematics_2022_paper_q_25::after {max-width:386px; width:100%;height:0;padding: 0 0 53.36787564766839% 0;}
+.waec_mathematics_2022_paper_q_28 {max-width:228px; max-height:203px; }
+.waec_mathematics_2022_paper_q_28::after {content: '\00a0';display: inline-block; width:228px; height:203px; background-position: 88.53333333333333% 90.54545454545455%; background-size: 428.94736842105266% 235.4679802955665%; background-image: url(waec2022_0.png);padding: 0; }
+div.waec_mathematics_2022_paper_q_28::after {max-width:228px; width:100%;height:0;padding: 0 0 89.03508771929825% 0;}
+.waec_mathematics_2022_paper_q_29 {max-width:400px; max-height:247px; }
+.waec_mathematics_2022_paper_q_29::after {content: '\00a0';display: inline-block; width:400px; height:247px; background-position: 62.80276816608997% 0.4329004329004329%; background-size: 244.5% 193.52226720647772%; background-image: url(waec2022_0.png);padding: 0; }
+div.waec_mathematics_2022_paper_q_29::after {max-width:400px; width:100%;height:0;padding: 0 0 61.75% 0;}
+.waec_mathematics_2022_paper_q_33 {max-width:361px; max-height:269px; }
+.waec_mathematics_2022_paper_q_33::after {content: '\00a0';display: inline-block; width:361px; height:269px; background-position: 0.1620745542949757% 0.4784688995215311%; background-size: 270.9141274238227% 177.69516728624535%; background-image: url(waec2022_0.png);padding: 0; }
+div.waec_mathematics_2022_paper_q_33::after {max-width:361px; width:100%;height:0;padding: 0 0 74.51523545706371% 0;}
+.waec_mathematics_2022_paper_sol_26 {max-width:213px; max-height:146px; }
+.waec_mathematics_2022_paper_sol_26::after {content: '\00a0';display: inline-block; width:213px; height:146px; background-position: 99.86928104575163% 0.30120481927710846%; background-size: 459.15492957746477% 327.3972602739726%; background-image: url(waec2022_0.png);padding: 0; }
+div.waec_mathematics_2022_paper_sol_26::after {max-width:213px; width:100%;height:0;padding: 0 0 68.54460093896714% 0;}
+
+@keyframes waec_mathematics_2022_paper_q-frames {
+    0% { background-position: 55.19203413940256% 91.54411764705883%;  }
+    14.285714285714285% { background-position: 55.19203413940256% 91.54411764705883%;  }
+    28.57142857142857% { background-position: 0.16891891891891891% 99.63235294117646%;  }
+    42.857142857142854% { background-position: 0.16891891891891891% 99.63235294117646%;  }
+    57.14285714285714% { background-position: 88.53333333333333% 90.54545454545455%;  }
+    71.42857142857143% { background-position: 62.80276816608997% 0.4329004329004329%;  }
+    85.71428571428571% { background-position: 0.1620745542949757% 0.4784688995215311%;  }
+}
+
+.waec_mathematics_2022_paper_q-animation {
+    max-width: 275px;
+    max-height: 206px;
+}
+.waec_mathematics_2022_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 275px;
+    height: 206px;
+    padding: 0;
+    background-image: url(waec2022_0.png);
+    background-size: 355.6363636363636% 232.03883495145632%; 
+    animation-name: waec_mathematics_2022_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_mathematics_2022_paper_q-animation::after {
+    max-width: 275px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 74.9090909090909% 0;
+}
+
+/* $TexturePacker:SmartUpdate:1b5832da32d0e486db727c628242415f:1c8aef8bec8f18e667f4cc1c4fbec369:a31f15ca6ca10ae7ec505116d5248b3a$ */

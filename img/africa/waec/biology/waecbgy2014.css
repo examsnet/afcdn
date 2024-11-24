@@ -1,0 +1,49 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_biology_2014_paper_q_42 {max-width:300px; max-height:227px; }
+.waec_biology_2014_paper_q_42::after {content: '\00a0';display: inline-block; width:300px; height:227px; background-position: 50% 99.58333333333333%; background-size: 100.66666666666667% 205.72687224669605%; background-image: url(waecbgy2014_0.png);padding: 0; }
+div.waec_biology_2014_paper_q_42::after {max-width:300px; width:100%;height:0;padding: 0 0 75.66666666666667% 0;}
+.waec_biology_2014_paper_q_43 {max-width:300px; max-height:227px; }
+.waec_biology_2014_paper_q_43::after {content: '\00a0';display: inline-block; width:300px; height:227px; background-position: 50% 99.58333333333333%; background-size: 100.66666666666667% 205.72687224669605%; background-image: url(waecbgy2014_0.png);padding: 0; }
+div.waec_biology_2014_paper_q_43::after {max-width:300px; width:100%;height:0;padding: 0 0 75.66666666666667% 0;}
+.waec_biology_2014_paper_q_44 {max-width:300px; max-height:237px; }
+.waec_biology_2014_paper_q_44::after {content: '\00a0';display: inline-block; width:300px; height:237px; background-position: 50% 0.43478260869565216%; background-size: 100.66666666666667% 197.04641350210971%; background-image: url(waecbgy2014_0.png);padding: 0; }
+div.waec_biology_2014_paper_q_44::after {max-width:300px; width:100%;height:0;padding: 0 0 79% 0;}
+
+@keyframes waec_biology_2014_paper_q-frames {
+    0% { background-position: 50% 99.58333333333333%;  }
+    33.33333333333333% { background-position: 50% 99.58333333333333%;  }
+    66.66666666666666% { background-position: 50% 0.43478260869565216%;  }
+}
+
+.waec_biology_2014_paper_q-animation {
+    max-width: 300px;
+    max-height: 227px;
+}
+.waec_biology_2014_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 227px;
+    padding: 0;
+    background-image: url(waecbgy2014_0.png);
+    background-size: 100.66666666666667% 205.72687224669605%; 
+    animation-name: waec_biology_2014_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_biology_2014_paper_q-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 75.66666666666667% 0;
+}
+
+/* $TexturePacker:SmartUpdate:f83b50e7587bb006f4c2c2549a194e97:1875afea36249fa61fcb0efbe9da08bf:1ba3ac8eacd64494390c08aadaf642bf$ */

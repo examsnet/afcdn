@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_biology_2010_paper_q_20 {max-width:300px; max-height:191px; }
+.waec_biology_2010_paper_q_20::after {content: '\00a0';display: inline-block; width:300px; height:191px; background-position: 50% 50%; background-size: 100.66666666666667% 101.04712041884817%; background-image: url(waecbgy2010_0.png);padding: 0; }
+div.waec_biology_2010_paper_q_20::after {max-width:300px; width:100%;height:0;padding: 0 0 63.666666666666664% 0;}
+.waec_biology_2010_paper_q_21 {max-width:300px; max-height:191px; }
+.waec_biology_2010_paper_q_21::after {content: '\00a0';display: inline-block; width:300px; height:191px; background-position: 50% 50%; background-size: 100.66666666666667% 101.04712041884817%; background-image: url(waecbgy2010_0.png);padding: 0; }
+div.waec_biology_2010_paper_q_21::after {max-width:300px; width:100%;height:0;padding: 0 0 63.666666666666664% 0;}
+
+@keyframes waec_biology_2010_paper_q-frames {
+    0% { background-position: 50% 50%;  }
+    50% { background-position: 50% 50%;  }
+}
+
+.waec_biology_2010_paper_q-animation {
+    max-width: 300px;
+    max-height: 191px;
+}
+.waec_biology_2010_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 191px;
+    padding: 0;
+    background-image: url(waecbgy2010_0.png);
+    background-size: 100.66666666666667% 101.04712041884817%; 
+    animation-name: waec_biology_2010_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_biology_2010_paper_q-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 63.666666666666664% 0;
+}
+
+/* $TexturePacker:SmartUpdate:31396a06447362c57b609dd1d42dedc0:b8f93a878dd8158501952b5131ef65e2:8294617bbe553e876c82b7d63105e012$ */

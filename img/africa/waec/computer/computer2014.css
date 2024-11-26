@@ -1,0 +1,73 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_computer_studies_2014_paper_q_13 {max-width:400px; max-height:150px; }
+.waec_computer_studies_2014_paper_q_13::after {content: '\00a0';display: inline-block; width:400px; height:150px; background-position: 0.18315018315018314% 99.69135802469135%; background-size: 236.5% 316%; background-image: url(computer2014_0.png);padding: 0; }
+div.waec_computer_studies_2014_paper_q_13::after {max-width:400px; width:100%;height:0;padding: 0 0 37.5% 0;}
+.waec_computer_studies_2014_paper_q_14 {max-width:400px; max-height:178px; }
+.waec_computer_studies_2014_paper_q_14::after {content: '\00a0';display: inline-block; width:400px; height:178px; background-position: 73.62637362637362% 0.33783783783783783%; background-size: 236.5% 266.29213483146066%; background-image: url(computer2014_0.png);padding: 0; }
+div.waec_computer_studies_2014_paper_q_14::after {max-width:400px; width:100%;height:0;padding: 0 0 44.5% 0;}
+.waec_computer_studies_2014_paper_q_20 {max-width:400px; max-height:321px; }
+.waec_computer_studies_2014_paper_q_20::after {content: '\00a0';display: inline-block; width:400px; height:321px; background-position: 0.18315018315018314% 0.6535947712418301%; background-size: 236.5% 147.66355140186917%; background-image: url(computer2014_0.png);padding: 0; }
+div.waec_computer_studies_2014_paper_q_20::after {max-width:400px; width:100%;height:0;padding: 0 0 80.25% 0;}
+.waec_computer_studies_2014_paper_q_21 {max-width:235px; max-height:205px; }
+.waec_computer_studies_2014_paper_q_21::after {content: '\00a0';display: inline-block; width:235px; height:205px; background-position: 56.540084388185655% 66.91449814126393%; background-size: 402.5531914893617% 231.21951219512195%; background-image: url(computer2014_0.png);padding: 0; }
+div.waec_computer_studies_2014_paper_q_21::after {max-width:235px; width:100%;height:0;padding: 0 0 87.23404255319149% 0;}
+.waec_computer_studies_2014_paper_q_22 {max-width:235px; max-height:205px; }
+.waec_computer_studies_2014_paper_q_22::after {content: '\00a0';display: inline-block; width:235px; height:205px; background-position: 56.540084388185655% 66.91449814126393%; background-size: 402.5531914893617% 231.21951219512195%; background-image: url(computer2014_0.png);padding: 0; }
+div.waec_computer_studies_2014_paper_q_22::after {max-width:235px; width:100%;height:0;padding: 0 0 87.23404255319149% 0;}
+.waec_computer_studies_2014_paper_q_23 {max-width:142px; max-height:400px; }
+.waec_computer_studies_2014_paper_q_23::after {content: '\00a0';display: inline-block; width:142px; height:400px; background-position: 99.87562189054727% 1.3513513513513513%; background-size: 666.1971830985915% 118.5%; background-image: url(computer2014_0.png);padding: 0; }
+div.waec_computer_studies_2014_paper_q_23::after {max-width:142px; width:100%;height:0;padding: 0 0 281.6901408450704% 0;}
+.waec_computer_studies_2014_paper_q_24 {max-width:142px; max-height:400px; }
+.waec_computer_studies_2014_paper_q_24::after {content: '\00a0';display: inline-block; width:142px; height:400px; background-position: 99.87562189054727% 1.3513513513513513%; background-size: 666.1971830985915% 118.5%; background-image: url(computer2014_0.png);padding: 0; }
+div.waec_computer_studies_2014_paper_q_24::after {max-width:142px; width:100%;height:0;padding: 0 0 281.6901408450704% 0;}
+.waec_computer_studies_2014_paper_q_25 {max-width:142px; max-height:400px; }
+.waec_computer_studies_2014_paper_q_25::after {content: '\00a0';display: inline-block; width:142px; height:400px; background-position: 99.87562189054727% 1.3513513513513513%; background-size: 666.1971830985915% 118.5%; background-image: url(computer2014_0.png);padding: 0; }
+div.waec_computer_studies_2014_paper_q_25::after {max-width:142px; width:100%;height:0;padding: 0 0 281.6901408450704% 0;}
+.waec_computer_studies_2014_paper_q_33 {max-width:152px; max-height:83px; }
+.waec_computer_studies_2014_paper_q_33::after {content: '\00a0';display: inline-block; width:152px; height:83px; background-position: 80.35264483627203% 46.03580562659847%; background-size: 622.3684210526316% 571.0843373493976%; background-image: url(computer2014_0.png);padding: 0; }
+div.waec_computer_studies_2014_paper_q_33::after {max-width:152px; width:100%;height:0;padding: 0 0 54.60526315789474% 0;}
+
+@keyframes waec_computer_studies_2014_paper_q-frames {
+    0% { background-position: 0.18315018315018314% 99.69135802469135%;  }
+    11.11111111111111% { background-position: 73.62637362637362% 0.33783783783783783%;  }
+    22.22222222222222% { background-position: 0.18315018315018314% 0.6535947712418301%;  }
+    33.33333333333333% { background-position: 56.540084388185655% 66.91449814126393%;  }
+    44.44444444444444% { background-position: 56.540084388185655% 66.91449814126393%;  }
+    55.55555555555556% { background-position: 99.87562189054727% 1.3513513513513513%;  }
+    66.66666666666666% { background-position: 99.87562189054727% 1.3513513513513513%;  }
+    77.77777777777779% { background-position: 99.87562189054727% 1.3513513513513513%;  }
+    88.88888888888889% { background-position: 80.35264483627203% 46.03580562659847%;  }
+}
+
+.waec_computer_studies_2014_paper_q-animation {
+    max-width: 400px;
+    max-height: 150px;
+}
+.waec_computer_studies_2014_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 150px;
+    padding: 0;
+    background-image: url(computer2014_0.png);
+    background-size: 236.5% 316%; 
+    animation-name: waec_computer_studies_2014_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_computer_studies_2014_paper_q-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 37.5% 0;
+}
+
+/* $TexturePacker:SmartUpdate:0113e1015264416e7f094983b6532d9a:2b398d1bcc3879978d22eac7362f96df:86c8370d4b4121b5d284e5c15e6aa3a4$ */

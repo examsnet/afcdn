@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_chemistry_2020_paper_q_2 {max-width:195px; max-height:78px; }
+.waec_chemistry_2020_paper_q_2::after {content: '\00a0';display: inline-block; width:195px; height:78px; background-position: 0.11737089201877934% 99.90430622009569%; background-size: 536.9230769230769% 1439.7435897435898%; background-image: url(waecchem2020_0.png);padding: 0; }
+div.waec_chemistry_2020_paper_q_2::after {max-width:195px; width:100%;height:0;padding: 0 0 40% 0;}
+.waec_chemistry_2020_paper_sol_28 {max-width:1045px; max-height:1042px; }
+.waec_chemistry_2020_paper_sol_28::after {content: '\00a0';display: inline-block; width:1045px; height:1042px; background-position: 50% 1.2345679012345678%; background-size: 100.19138755980862% 107.77351247600768%; background-image: url(waecchem2020_0.png);padding: 0; }
+div.waec_chemistry_2020_paper_sol_28::after {max-width:1045px; width:100%;height:0;padding: 0 0 99.71291866028709% 0;}
+
+
+/* $TexturePacker:SmartUpdate:4b3d312c37110a94cd78fc873aa94543:491c61df93a7fae47ddf5395be2ac121:a32b2e6c4e02b0ef6014a6693ee8d883$ */

@@ -1,0 +1,73 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_geography_2015_paper_q_10 {max-width:245px; max-height:300px; }
+.waec_geography_2015_paper_q_10::after {content: '\00a0';display: inline-block; width:245px; height:300px; background-position: 50% 50%; background-size: 100.81632653061224% 100.66666666666667%; background-image: url(waecgeog2015_0.png);padding: 0; }
+div.waec_geography_2015_paper_q_10::after {max-width:245px; width:100%;height:0;padding: 0 0 122.44897959183673% 0;}
+.waec_geography_2015_paper_q_2 {max-width:245px; max-height:300px; }
+.waec_geography_2015_paper_q_2::after {content: '\00a0';display: inline-block; width:245px; height:300px; background-position: 50% 50%; background-size: 100.81632653061224% 100.66666666666667%; background-image: url(waecgeog2015_0.png);padding: 0; }
+div.waec_geography_2015_paper_q_2::after {max-width:245px; width:100%;height:0;padding: 0 0 122.44897959183673% 0;}
+.waec_geography_2015_paper_q_3 {max-width:245px; max-height:300px; }
+.waec_geography_2015_paper_q_3::after {content: '\00a0';display: inline-block; width:245px; height:300px; background-position: 50% 50%; background-size: 100.81632653061224% 100.66666666666667%; background-image: url(waecgeog2015_0.png);padding: 0; }
+div.waec_geography_2015_paper_q_3::after {max-width:245px; width:100%;height:0;padding: 0 0 122.44897959183673% 0;}
+.waec_geography_2015_paper_q_4 {max-width:245px; max-height:300px; }
+.waec_geography_2015_paper_q_4::after {content: '\00a0';display: inline-block; width:245px; height:300px; background-position: 50% 50%; background-size: 100.81632653061224% 100.66666666666667%; background-image: url(waecgeog2015_0.png);padding: 0; }
+div.waec_geography_2015_paper_q_4::after {max-width:245px; width:100%;height:0;padding: 0 0 122.44897959183673% 0;}
+.waec_geography_2015_paper_q_5 {max-width:245px; max-height:300px; }
+.waec_geography_2015_paper_q_5::after {content: '\00a0';display: inline-block; width:245px; height:300px; background-position: 50% 50%; background-size: 100.81632653061224% 100.66666666666667%; background-image: url(waecgeog2015_0.png);padding: 0; }
+div.waec_geography_2015_paper_q_5::after {max-width:245px; width:100%;height:0;padding: 0 0 122.44897959183673% 0;}
+.waec_geography_2015_paper_q_6 {max-width:245px; max-height:300px; }
+.waec_geography_2015_paper_q_6::after {content: '\00a0';display: inline-block; width:245px; height:300px; background-position: 50% 50%; background-size: 100.81632653061224% 100.66666666666667%; background-image: url(waecgeog2015_0.png);padding: 0; }
+div.waec_geography_2015_paper_q_6::after {max-width:245px; width:100%;height:0;padding: 0 0 122.44897959183673% 0;}
+.waec_geography_2015_paper_q_7 {max-width:245px; max-height:300px; }
+.waec_geography_2015_paper_q_7::after {content: '\00a0';display: inline-block; width:245px; height:300px; background-position: 50% 50%; background-size: 100.81632653061224% 100.66666666666667%; background-image: url(waecgeog2015_0.png);padding: 0; }
+div.waec_geography_2015_paper_q_7::after {max-width:245px; width:100%;height:0;padding: 0 0 122.44897959183673% 0;}
+.waec_geography_2015_paper_q_8 {max-width:245px; max-height:300px; }
+.waec_geography_2015_paper_q_8::after {content: '\00a0';display: inline-block; width:245px; height:300px; background-position: 50% 50%; background-size: 100.81632653061224% 100.66666666666667%; background-image: url(waecgeog2015_0.png);padding: 0; }
+div.waec_geography_2015_paper_q_8::after {max-width:245px; width:100%;height:0;padding: 0 0 122.44897959183673% 0;}
+.waec_geography_2015_paper_q_9 {max-width:245px; max-height:300px; }
+.waec_geography_2015_paper_q_9::after {content: '\00a0';display: inline-block; width:245px; height:300px; background-position: 50% 50%; background-size: 100.81632653061224% 100.66666666666667%; background-image: url(waecgeog2015_0.png);padding: 0; }
+div.waec_geography_2015_paper_q_9::after {max-width:245px; width:100%;height:0;padding: 0 0 122.44897959183673% 0;}
+
+@keyframes waec_geography_2015_paper_q-frames {
+    0% { background-position: 50% 50%;  }
+    11.11111111111111% { background-position: 50% 50%;  }
+    22.22222222222222% { background-position: 50% 50%;  }
+    33.33333333333333% { background-position: 50% 50%;  }
+    44.44444444444444% { background-position: 50% 50%;  }
+    55.55555555555556% { background-position: 50% 50%;  }
+    66.66666666666666% { background-position: 50% 50%;  }
+    77.77777777777779% { background-position: 50% 50%;  }
+    88.88888888888889% { background-position: 50% 50%;  }
+}
+
+.waec_geography_2015_paper_q-animation {
+    max-width: 245px;
+    max-height: 300px;
+}
+.waec_geography_2015_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 245px;
+    height: 300px;
+    padding: 0;
+    background-image: url(waecgeog2015_0.png);
+    background-size: 100.81632653061224% 100.66666666666667%; 
+    animation-name: waec_geography_2015_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_geography_2015_paper_q-animation::after {
+    max-width: 245px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 122.44897959183673% 0;
+}
+
+/* $TexturePacker:SmartUpdate:86e701d11b1536ca98e66483ae4613f3:738474e863b6946bbadee4a3102fc96c:279321db70f030db30403cbd6ece97ee$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_economics_2019_paper_q_66 {max-width:400px; max-height:242px; }
+.waec_economics_2019_paper_q_66::after {content: '\00a0';display: inline-block; width:400px; height:242px; background-position: 0.4149377593360996% 50%; background-size: 160.25% 100.82644628099173%; background-image: url(economics2019_0.png);padding: 0; }
+div.waec_economics_2019_paper_q_66::after {max-width:400px; width:100%;height:0;padding: 0 0 60.5% 0;}
+.waec_economics_2019_paper_sol_17 {max-width:238px; max-height:212px; }
+.waec_economics_2019_paper_sol_17::after {content: '\00a0';display: inline-block; width:238px; height:212px; background-position: 99.75186104218362% 3.125%; background-size: 269.327731092437% 115.09433962264151%; background-image: url(economics2019_0.png);padding: 0; }
+div.waec_economics_2019_paper_sol_17::after {max-width:238px; width:100%;height:0;padding: 0 0 89.07563025210084% 0;}
+
+
+/* $TexturePacker:SmartUpdate:72d9d128c24c33c34bd8cd6b4634b0d2:954d4d73ebb7ea2f072f82db632ad55f:faff1957d86579ac2ccfb59fa7932efa$ */

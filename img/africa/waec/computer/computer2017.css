@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_computer_studies_2017_paper_q_43 {max-width:400px; max-height:201px; }
+.waec_computer_studies_2017_paper_q_43::after {content: '\00a0';display: inline-block; width:400px; height:201px; background-position: 50% 0.32786885245901637%; background-size: 100.5% 251.74129353233832%; background-image: url(computer2017_0.png);padding: 0; }
+div.waec_computer_studies_2017_paper_q_43::after {max-width:400px; width:100%;height:0;padding: 0 0 50.25% 0;}
+.waec_computer_studies_2017_paper_sol_34 {max-width:216px; max-height:302px; }
+.waec_computer_studies_2017_paper_sol_34::after {content: '\00a0';display: inline-block; width:216px; height:302px; background-position: 0.5376344086021505% 99.50980392156863%; background-size: 186.11111111111111% 167.5496688741722%; background-image: url(computer2017_0.png);padding: 0; }
+div.waec_computer_studies_2017_paper_sol_34::after {max-width:216px; width:100%;height:0;padding: 0 0 139.8148148148148% 0;}
+
+
+/* $TexturePacker:SmartUpdate:b940722fd0ce0ceccb63bdf5e488820d:a7a63874b82cad5015765f7d198d3a48:675dd2c2015bdc45a9cf184f43eec82a$ */

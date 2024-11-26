@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_chemistry_2015_paper_q_28 {max-width:282px; max-height:242px; }
+.waec_chemistry_2015_paper_q_28::after {content: '\00a0';display: inline-block; width:282px; height:242px; background-position: 0.2857142857142857% 50%; background-size: 224.11347517730496% 100.82644628099173%; background-image: url(waecchem2015_0.png);padding: 0; }
+div.waec_chemistry_2015_paper_q_28::after {max-width:282px; width:100%;height:0;padding: 0 0 85.81560283687944% 0;}
+.waec_chemistry_2015_paper_q_56 {max-width:347px; max-height:206px; }
+.waec_chemistry_2015_paper_q_56::after {content: '\00a0';display: inline-block; width:347px; height:206px; background-position: 99.64912280701755% 2.6315789473684212%; background-size: 182.13256484149855% 118.44660194174757%; background-image: url(waecchem2015_0.png);padding: 0; }
+div.waec_chemistry_2015_paper_q_56::after {max-width:347px; width:100%;height:0;padding: 0 0 59.36599423631124% 0;}
+
+@keyframes waec_chemistry_2015_paper_q-frames {
+    0% { background-position: 0.2857142857142857% 50%;  }
+    50% { background-position: 99.64912280701755% 2.6315789473684212%;  }
+}
+
+.waec_chemistry_2015_paper_q-animation {
+    max-width: 282px;
+    max-height: 242px;
+}
+.waec_chemistry_2015_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 282px;
+    height: 242px;
+    padding: 0;
+    background-image: url(waecchem2015_0.png);
+    background-size: 224.11347517730496% 100.82644628099173%; 
+    animation-name: waec_chemistry_2015_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_chemistry_2015_paper_q-animation::after {
+    max-width: 282px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 85.81560283687944% 0;
+}
+
+/* $TexturePacker:SmartUpdate:699bd26929415c813a020cb8a9dfae5f:8d038e4cffcd65951c6153ba4a2f40fd:c6210f73f155be64f08ce56d76846fd8$ */

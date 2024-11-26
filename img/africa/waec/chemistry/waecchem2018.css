@@ -1,0 +1,61 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_chemistry_2018_paper_q_15 {max-width:400px; max-height:303px; }
+.waec_chemistry_2018_paper_q_15::after {content: '\00a0';display: inline-block; width:400px; height:303px; background-position: 50% 38.32116788321168%; background-size: 100.5% 371.28712871287127%; background-image: url(waecchem2018_0.png);padding: 0; }
+div.waec_chemistry_2018_paper_q_15::after {max-width:400px; width:100%;height:0;padding: 0 0 75.75% 0;}
+.waec_chemistry_2018_paper_q_25 {max-width:400px; max-height:313px; }
+.waec_chemistry_2018_paper_q_25::after {content: '\00a0';display: inline-block; width:400px; height:313px; background-position: 50% 0.12315270935960591%; background-size: 100.5% 359.42492012779553%; background-image: url(waecchem2018_0.png);padding: 0; }
+div.waec_chemistry_2018_paper_q_25::after {max-width:400px; width:100%;height:0;padding: 0 0 78.25% 0;}
+.waec_chemistry_2018_paper_q_46 {max-width:296px; max-height:185px; }
+.waec_chemistry_2018_paper_q_46::after {content: '\00a0';display: inline-block; width:296px; height:185px; background-position: 0.9433962264150944% 99.8936170212766%; background-size: 135.8108108108108% 608.1081081081081%; background-image: url(waecchem2018_0.png);padding: 0; }
+div.waec_chemistry_2018_paper_q_46::after {max-width:296px; width:100%;height:0;padding: 0 0 62.5% 0;}
+.waec_chemistry_2018_paper_q_62 {max-width:336px; max-height:31px; }
+.waec_chemistry_2018_paper_q_62::after {content: '\00a0';display: inline-block; width:336px; height:31px; background-position: 1.5151515151515151% 82.90676416819012%; background-size: 119.64285714285714% 3629.032258064516%; background-image: url(waecchem2018_0.png);padding: 0; }
+div.waec_chemistry_2018_paper_q_62::after {max-width:336px; width:100%;height:0;padding: 0 0 9.226190476190476% 0;}
+.waec_chemistry_2018_paper_q_63 {max-width:364px; max-height:40px; }
+.waec_chemistry_2018_paper_q_63::after {content: '\00a0';display: inline-block; width:364px; height:40px; background-position: 2.6315789473684212% 57.05069124423963%; background-size: 110.43956043956044% 2812.5%; background-image: url(waecchem2018_0.png);padding: 0; }
+div.waec_chemistry_2018_paper_q_63::after {max-width:364px; width:100%;height:0;padding: 0 0 10.989010989010989% 0;}
+.waec_chemistry_2018_paper_q_66 {max-width:346px; max-height:246px; }
+.waec_chemistry_2018_paper_q_66::after {content: '\00a0';display: inline-block; width:346px; height:246px; background-position: 1.7857142857142858% 75.08532423208192%; background-size: 116.18497109826589% 457.3170731707317%; background-image: url(waecchem2018_0.png);padding: 0; }
+div.waec_chemistry_2018_paper_q_66::after {max-width:346px; width:100%;height:0;padding: 0 0 71.09826589595376% 0;}
+
+@keyframes waec_chemistry_2018_paper_q-frames {
+    0% { background-position: 50% 38.32116788321168%;  }
+    16.666666666666664% { background-position: 50% 0.12315270935960591%;  }
+    33.33333333333333% { background-position: 0.9433962264150944% 99.8936170212766%;  }
+    50% { background-position: 1.5151515151515151% 82.90676416819012%;  }
+    66.66666666666666% { background-position: 2.6315789473684212% 57.05069124423963%;  }
+    83.33333333333334% { background-position: 1.7857142857142858% 75.08532423208192%;  }
+}
+
+.waec_chemistry_2018_paper_q-animation {
+    max-width: 400px;
+    max-height: 303px;
+}
+.waec_chemistry_2018_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 303px;
+    padding: 0;
+    background-image: url(waecchem2018_0.png);
+    background-size: 100.5% 371.28712871287127%; 
+    animation-name: waec_chemistry_2018_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_chemistry_2018_paper_q-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 75.75% 0;
+}
+
+/* $TexturePacker:SmartUpdate:c7822d79550235e3a85fd624a4f108ea:8a0074c4b65ee7ab4ceed4ebb9746980:938fd3ec389068a28ad65cf847495dd7$ */

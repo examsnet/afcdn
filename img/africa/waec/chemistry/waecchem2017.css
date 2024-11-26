@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_chemistry_2017_paper_q_49 {max-width:400px; max-height:44px; }
+.waec_chemistry_2017_paper_q_49::after {content: '\00a0';display: inline-block; width:400px; height:44px; background-position: 50% 50%; background-size: 100.5% 104.54545454545455%; background-image: url(waecchem2017_0.png);padding: 0; }
+div.waec_chemistry_2017_paper_q_49::after {max-width:400px; width:100%;height:0;padding: 0 0 11% 0;}
+
+
+/* $TexturePacker:SmartUpdate:31f4c4f59792927809e22b508fa58b19:6422f38c1b1136bdca79f22013d09e90:ff42bc3c99e0e305665345c06f75d3d9$ */

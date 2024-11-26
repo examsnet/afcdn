@@ -1,0 +1,73 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_agriculture_2020_paper_q_15 {max-width:400px; max-height:152px; }
+.waec_agriculture_2020_paper_q_15::after {content: '\00a0';display: inline-block; width:400px; height:152px; background-position: 50% 82.56624825662483%; background-size: 100.5% 571.7105263157895%; background-image: url(waecagri2020_0.png);padding: 0; }
+div.waec_agriculture_2020_paper_q_15::after {max-width:400px; width:100%;height:0;padding: 0 0 38% 0;}
+.waec_agriculture_2020_paper_q_16 {max-width:400px; max-height:152px; }
+.waec_agriculture_2020_paper_q_16::after {content: '\00a0';display: inline-block; width:400px; height:152px; background-position: 50% 82.56624825662483%; background-size: 100.5% 571.7105263157895%; background-image: url(waecagri2020_0.png);padding: 0; }
+div.waec_agriculture_2020_paper_q_16::after {max-width:400px; width:100%;height:0;padding: 0 0 38% 0;}
+.waec_agriculture_2020_paper_q_43 {max-width:400px; max-height:184px; }
+.waec_agriculture_2020_paper_q_43::after {content: '\00a0';display: inline-block; width:400px; height:184px; background-position: 50% 59.416058394160586%; background-size: 100.5% 472.2826086956522%; background-image: url(waecagri2020_0.png);padding: 0; }
+div.waec_agriculture_2020_paper_q_43::after {max-width:400px; width:100%;height:0;padding: 0 0 46% 0;}
+.waec_agriculture_2020_paper_q_44 {max-width:400px; max-height:184px; }
+.waec_agriculture_2020_paper_q_44::after {content: '\00a0';display: inline-block; width:400px; height:184px; background-position: 50% 59.416058394160586%; background-size: 100.5% 472.2826086956522%; background-image: url(waecagri2020_0.png);padding: 0; }
+div.waec_agriculture_2020_paper_q_44::after {max-width:400px; width:100%;height:0;padding: 0 0 46% 0;}
+.waec_agriculture_2020_paper_q_47 {max-width:400px; max-height:217px; }
+.waec_agriculture_2020_paper_q_47::after {content: '\00a0';display: inline-block; width:400px; height:217px; background-position: 50% 0.15337423312883436%; background-size: 100.5% 400.46082949308754%; background-image: url(waecagri2020_0.png);padding: 0; }
+div.waec_agriculture_2020_paper_q_47::after {max-width:400px; width:100%;height:0;padding: 0 0 54.25% 0;}
+.waec_agriculture_2020_paper_q_48 {max-width:400px; max-height:217px; }
+.waec_agriculture_2020_paper_q_48::after {content: '\00a0';display: inline-block; width:400px; height:217px; background-position: 50% 0.15337423312883436%; background-size: 100.5% 400.46082949308754%; background-image: url(waecagri2020_0.png);padding: 0; }
+div.waec_agriculture_2020_paper_q_48::after {max-width:400px; width:100%;height:0;padding: 0 0 54.25% 0;}
+.waec_agriculture_2020_paper_q_5 {max-width:400px; max-height:123px; }
+.waec_agriculture_2020_paper_q_5::after {content: '\00a0';display: inline-block; width:400px; height:123px; background-position: 50% 99.86595174262735%; background-size: 100.5% 706.5040650406504%; background-image: url(waecagri2020_0.png);padding: 0; }
+div.waec_agriculture_2020_paper_q_5::after {max-width:400px; width:100%;height:0;padding: 0 0 30.75% 0;}
+.waec_agriculture_2020_paper_q_6 {max-width:400px; max-height:123px; }
+.waec_agriculture_2020_paper_q_6::after {content: '\00a0';display: inline-block; width:400px; height:123px; background-position: 50% 99.86595174262735%; background-size: 100.5% 706.5040650406504%; background-image: url(waecagri2020_0.png);padding: 0; }
+div.waec_agriculture_2020_paper_q_6::after {max-width:400px; width:100%;height:0;padding: 0 0 30.75% 0;}
+.waec_agriculture_2020_paper_q_7 {max-width:400px; max-height:187px; }
+.waec_agriculture_2020_paper_q_7::after {content: '\00a0';display: inline-block; width:400px; height:187px; background-position: 50% 32.111436950146626%; background-size: 100.5% 464.70588235294116%; background-image: url(waecagri2020_0.png);padding: 0; }
+div.waec_agriculture_2020_paper_q_7::after {max-width:400px; width:100%;height:0;padding: 0 0 46.75% 0;}
+
+@keyframes waec_agriculture_2020_paper_q-frames {
+    0% { background-position: 50% 99.86595174262735%;  }
+    11.11111111111111% { background-position: 50% 99.86595174262735%;  }
+    22.22222222222222% { background-position: 50% 32.111436950146626%;  }
+    33.33333333333333% { background-position: 50% 82.56624825662483%;  }
+    44.44444444444444% { background-position: 50% 82.56624825662483%;  }
+    55.55555555555556% { background-position: 50% 59.416058394160586%;  }
+    66.66666666666666% { background-position: 50% 59.416058394160586%;  }
+    77.77777777777779% { background-position: 50% 0.15337423312883436%;  }
+    88.88888888888889% { background-position: 50% 0.15337423312883436%;  }
+}
+
+.waec_agriculture_2020_paper_q-animation {
+    max-width: 400px;
+    max-height: 123px;
+}
+.waec_agriculture_2020_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 123px;
+    padding: 0;
+    background-image: url(waecagri2020_0.png);
+    background-size: 100.5% 706.5040650406504%; 
+    animation-name: waec_agriculture_2020_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_agriculture_2020_paper_q-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 30.75% 0;
+}
+
+/* $TexturePacker:SmartUpdate:059b38792aa17c43e751c0d8b9f5065d:5e8a6de555b8ba89b5b846ac35d35430:f9f6e69d5ce9c8e048fbeee6ac0a1700$ */

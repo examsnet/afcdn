@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_agriculture_2021_paper_q_4 {max-width:313px; max-height:221px; }
+.waec_agriculture_2021_paper_q_4::after {content: '\00a0';display: inline-block; width:313px; height:221px; background-position: 0.24813895781637718% 50%; background-size: 228.75399361022363% 100.90497737556561%; background-image: url(waecagri2021_0.png);padding: 0; }
+div.waec_agriculture_2021_paper_q_4::after {max-width:313px; width:100%;height:0;padding: 0 0 70.6070287539936% 0;}
+.waec_agriculture_2021_paper_q_5 {max-width:400px; max-height:213px; }
+.waec_agriculture_2021_paper_q_5::after {content: '\00a0';display: inline-block; width:400px; height:213px; background-position: 99.68354430379746% 10%; background-size: 179% 104.69483568075117%; background-image: url(waecagri2021_0.png);padding: 0; }
+div.waec_agriculture_2021_paper_q_5::after {max-width:400px; width:100%;height:0;padding: 0 0 53.25% 0;}
+
+@keyframes waec_agriculture_2021_paper_q-frames {
+    0% { background-position: 0.24813895781637718% 50%;  }
+    50% { background-position: 99.68354430379746% 10%;  }
+}
+
+.waec_agriculture_2021_paper_q-animation {
+    max-width: 313px;
+    max-height: 221px;
+}
+.waec_agriculture_2021_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 313px;
+    height: 221px;
+    padding: 0;
+    background-image: url(waecagri2021_0.png);
+    background-size: 228.75399361022363% 100.90497737556561%; 
+    animation-name: waec_agriculture_2021_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_agriculture_2021_paper_q-animation::after {
+    max-width: 313px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 70.6070287539936% 0;
+}
+
+/* $TexturePacker:SmartUpdate:4dae897159143eb9e3c814bf5bf9a8b9:7ed54cb4a02cbfd8c2efb7df06316167:63b08d80ef15bff0bbaba3a4c259d9ab$ */

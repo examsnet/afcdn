@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_economics_2015_paper_q_49 {max-width:510px; max-height:394px; }
+.waec_economics_2015_paper_q_49::after {content: '\00a0';display: inline-block; width:510px; height:394px; background-position: 50% 50%; background-size: 100.3921568627451% 100.50761421319797%; background-image: url(economics2015_0.png);padding: 0; }
+div.waec_economics_2015_paper_q_49::after {max-width:510px; width:100%;height:0;padding: 0 0 77.25490196078431% 0;}
+
+
+/* $TexturePacker:SmartUpdate:d3e34ad2aa67c20c01f08a97aafe5f22:39d9004ace0759f5ffb11050bc3ddc79:ee35e1b8bb36718a4b049e86c451e936$ */

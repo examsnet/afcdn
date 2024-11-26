@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_commerce_2022_paper_q_54 {max-width:400px; max-height:185px; }
+.waec_commerce_2022_paper_q_54::after {content: '\00a0';display: inline-block; width:400px; height:185px; background-position: 50% 50%; background-size: 100.5% 101.08108108108108%; background-image: url(waeccommerce2022_0.png);padding: 0; }
+div.waec_commerce_2022_paper_q_54::after {max-width:400px; width:100%;height:0;padding: 0 0 46.25% 0;}
+
+
+/* $TexturePacker:SmartUpdate:098156bcfba83d10085f02e6ed98566d:180e209f1dc26e2dbc52cba1855f32c3:61ca1cbe68cacdc7f63f1b417203bcbf$ */

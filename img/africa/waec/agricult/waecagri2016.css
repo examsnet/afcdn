@@ -1,0 +1,65 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_agriculture_2016_paper_q_21 {max-width:179px; max-height:300px; }
+.waec_agriculture_2016_paper_q_21::after {content: '\00a0';display: inline-block; width:179px; height:300px; background-position: 99.73890339425587% 0.8403361344537815%; background-size: 313.9664804469274% 139.66666666666666%; background-image: url(waecagri2016_0.png);padding: 0; }
+div.waec_agriculture_2016_paper_q_21::after {max-width:179px; width:100%;height:0;padding: 0 0 167.5977653631285% 0;}
+.waec_agriculture_2016_paper_q_22 {max-width:179px; max-height:300px; }
+.waec_agriculture_2016_paper_q_22::after {content: '\00a0';display: inline-block; width:179px; height:300px; background-position: 99.73890339425587% 0.8403361344537815%; background-size: 313.9664804469274% 139.66666666666666%; background-image: url(waecagri2016_0.png);padding: 0; }
+div.waec_agriculture_2016_paper_q_22::after {max-width:179px; width:100%;height:0;padding: 0 0 167.5977653631285% 0;}
+.waec_agriculture_2016_paper_q_4 {max-width:300px; max-height:177px; }
+.waec_agriculture_2016_paper_q_4::after {content: '\00a0';display: inline-block; width:300px; height:177px; background-position: 0.3816793893129771% 99.58677685950413%; background-size: 187.33333333333334% 236.72316384180792%; background-image: url(waecagri2016_0.png);padding: 0; }
+div.waec_agriculture_2016_paper_q_4::after {max-width:300px; width:100%;height:0;padding: 0 0 59% 0;}
+.waec_agriculture_2016_paper_q_5 {max-width:300px; max-height:177px; }
+.waec_agriculture_2016_paper_q_5::after {content: '\00a0';display: inline-block; width:300px; height:177px; background-position: 0.3816793893129771% 99.58677685950413%; background-size: 187.33333333333334% 236.72316384180792%; background-image: url(waecagri2016_0.png);padding: 0; }
+div.waec_agriculture_2016_paper_q_5::after {max-width:300px; width:100%;height:0;padding: 0 0 59% 0;}
+.waec_agriculture_2016_paper_q_6 {max-width:300px; max-height:177px; }
+.waec_agriculture_2016_paper_q_6::after {content: '\00a0';display: inline-block; width:300px; height:177px; background-position: 0.3816793893129771% 99.58677685950413%; background-size: 187.33333333333334% 236.72316384180792%; background-image: url(waecagri2016_0.png);padding: 0; }
+div.waec_agriculture_2016_paper_q_6::after {max-width:300px; width:100%;height:0;padding: 0 0 59% 0;}
+.waec_agriculture_2016_paper_q_60 {max-width:380px; max-height:239px; }
+.waec_agriculture_2016_paper_q_60::after {content: '\00a0';display: inline-block; width:380px; height:239px; background-position: 0.5494505494505495% 0.5555555555555556%; background-size: 147.89473684210526% 175.31380753138075%; background-image: url(waecagri2016_0.png);padding: 0; }
+div.waec_agriculture_2016_paper_q_60::after {max-width:380px; width:100%;height:0;padding: 0 0 62.89473684210526% 0;}
+.waec_agriculture_2016_paper_q_7 {max-width:300px; max-height:177px; }
+.waec_agriculture_2016_paper_q_7::after {content: '\00a0';display: inline-block; width:300px; height:177px; background-position: 0.3816793893129771% 99.58677685950413%; background-size: 187.33333333333334% 236.72316384180792%; background-image: url(waecagri2016_0.png);padding: 0; }
+div.waec_agriculture_2016_paper_q_7::after {max-width:300px; width:100%;height:0;padding: 0 0 59% 0;}
+
+@keyframes waec_agriculture_2016_paper_q-frames {
+    0% { background-position: 0.3816793893129771% 99.58677685950413%;  }
+    14.285714285714285% { background-position: 0.3816793893129771% 99.58677685950413%;  }
+    28.57142857142857% { background-position: 0.3816793893129771% 99.58677685950413%;  }
+    42.857142857142854% { background-position: 0.3816793893129771% 99.58677685950413%;  }
+    57.14285714285714% { background-position: 99.73890339425587% 0.8403361344537815%;  }
+    71.42857142857143% { background-position: 99.73890339425587% 0.8403361344537815%;  }
+    85.71428571428571% { background-position: 0.5494505494505495% 0.5555555555555556%;  }
+}
+
+.waec_agriculture_2016_paper_q-animation {
+    max-width: 300px;
+    max-height: 177px;
+}
+.waec_agriculture_2016_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 177px;
+    padding: 0;
+    background-image: url(waecagri2016_0.png);
+    background-size: 187.33333333333334% 236.72316384180792%; 
+    animation-name: waec_agriculture_2016_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_agriculture_2016_paper_q-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 59% 0;
+}
+
+/* $TexturePacker:SmartUpdate:2817acb6805ea0746f287c7a6246453e:ceab4c451e1f70756c9b60a83ce2a94b:02b0479c3c8ffc80f252f5dac43769a4$ */

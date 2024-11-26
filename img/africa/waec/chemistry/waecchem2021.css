@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_chemistry_2021_paper_q_20 {max-width:314px; max-height:206px; }
+.waec_chemistry_2021_paper_q_20::after {content: '\00a0';display: inline-block; width:314px; height:206px; background-position: 99.72826086956522% 50%; background-size: 217.19745222929936% 100.97087378640776%; background-image: url(waecchem2021_0.png);padding: 0; }
+div.waec_chemistry_2021_paper_q_20::after {max-width:314px; width:100%;height:0;padding: 0 0 65.60509554140127% 0;}
+.waec_chemistry_2021_paper_q_7 {max-width:365px; max-height:206px; }
+.waec_chemistry_2021_paper_q_7::after {content: '\00a0';display: inline-block; width:365px; height:206px; background-position: 0.31545741324921134% 50%; background-size: 186.84931506849315% 100.97087378640776%; background-image: url(waecchem2021_0.png);padding: 0; }
+div.waec_chemistry_2021_paper_q_7::after {max-width:365px; width:100%;height:0;padding: 0 0 56.43835616438356% 0;}
+
+@keyframes waec_chemistry_2021_paper_q-frames {
+    0% { background-position: 0.31545741324921134% 50%;  }
+    50% { background-position: 99.72826086956522% 50%;  }
+}
+
+.waec_chemistry_2021_paper_q-animation {
+    max-width: 365px;
+    max-height: 206px;
+}
+.waec_chemistry_2021_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 365px;
+    height: 206px;
+    padding: 0;
+    background-image: url(waecchem2021_0.png);
+    background-size: 186.84931506849315% 100.97087378640776%; 
+    animation-name: waec_chemistry_2021_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_chemistry_2021_paper_q-animation::after {
+    max-width: 365px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 56.43835616438356% 0;
+}
+
+/* $TexturePacker:SmartUpdate:f143fcd37fef816f29a2f9b1dd76142f:25c9874bf3428d772123c7b8d62f4ad2:1af60b1a1d94f225117c0fb80921cfdc$ */

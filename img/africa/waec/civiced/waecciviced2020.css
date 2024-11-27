@@ -1,0 +1,49 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_civic_education_2020_paper_q_22 {max-width:400px; max-height:312px; }
+.waec_civic_education_2020_paper_q_22::after {content: '\00a0';display: inline-block; width:400px; height:312px; background-position: 50% 0.16778523489932887%; background-size: 100.5% 291.02564102564105%; background-image: url(waecciviced2020_0.png);padding: 0; }
+div.waec_civic_education_2020_paper_q_22::after {max-width:400px; width:100%;height:0;padding: 0 0 78% 0;}
+.waec_civic_education_2020_paper_q_46 {max-width:400px; max-height:288px; }
+.waec_civic_education_2020_paper_q_46::after {content: '\00a0';display: inline-block; width:400px; height:288px; background-position: 50% 99.83870967741936%; background-size: 100.5% 315.27777777777777%; background-image: url(waecciviced2020_0.png);padding: 0; }
+div.waec_civic_education_2020_paper_q_46::after {max-width:400px; width:100%;height:0;padding: 0 0 72% 0;}
+.waec_civic_education_2020_paper_q_47 {max-width:400px; max-height:304px; }
+.waec_civic_education_2020_paper_q_47::after {content: '\00a0';display: inline-block; width:400px; height:304px; background-position: 50% 51.98675496688742%; background-size: 100.5% 298.6842105263158%; background-image: url(waecciviced2020_0.png);padding: 0; }
+div.waec_civic_education_2020_paper_q_47::after {max-width:400px; width:100%;height:0;padding: 0 0 76% 0;}
+
+@keyframes waec_civic_education_2020_paper_q-frames {
+    0% { background-position: 50% 0.16778523489932887%;  }
+    33.33333333333333% { background-position: 50% 99.83870967741936%;  }
+    66.66666666666666% { background-position: 50% 51.98675496688742%;  }
+}
+
+.waec_civic_education_2020_paper_q-animation {
+    max-width: 400px;
+    max-height: 312px;
+}
+.waec_civic_education_2020_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 312px;
+    padding: 0;
+    background-image: url(waecciviced2020_0.png);
+    background-size: 100.5% 291.02564102564105%; 
+    animation-name: waec_civic_education_2020_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_civic_education_2020_paper_q-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 78% 0;
+}
+
+/* $TexturePacker:SmartUpdate:48e1d5afcf9839bf7b384abfe2f645ad:b78e02f3255069969cbf3a83fb47dba2:0a4c355a377f09d56e15905e89e083b8$ */

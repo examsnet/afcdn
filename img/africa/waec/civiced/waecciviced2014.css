@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_civi_education_2014_paper_q_31 {max-width:400px; max-height:199px; }
+.waec_civi_education_2014_paper_q_31::after {content: '\00a0';display: inline-block; width:400px; height:199px; background-position: 50% 0.2777777777777778%; background-size: 100.5% 280.90452261306535%; background-image: url(waecciviced2014_0.png);padding: 0; }
+div.waec_civi_education_2014_paper_q_31::after {max-width:400px; width:100%;height:0;padding: 0 0 49.75% 0;}
+.waec_civi_education_2014_paper_q_32 {max-width:400px; max-height:199px; }
+.waec_civi_education_2014_paper_q_32::after {content: '\00a0';display: inline-block; width:400px; height:199px; background-position: 50% 0.2777777777777778%; background-size: 100.5% 280.90452261306535%; background-image: url(waecciviced2014_0.png);padding: 0; }
+div.waec_civi_education_2014_paper_q_32::after {max-width:400px; width:100%;height:0;padding: 0 0 49.75% 0;}
+.waec_civi_education_2014_paper_q_4 {max-width:400px; max-height:197px; }
+.waec_civi_education_2014_paper_q_4::after {content: '\00a0';display: inline-block; width:400px; height:197px; background-position: 50% 55.52486187845304%; background-size: 100.5% 283.75634517766497%; background-image: url(waecciviced2014_0.png);padding: 0; }
+div.waec_civi_education_2014_paper_q_4::after {max-width:400px; width:100%;height:0;padding: 0 0 49.25% 0;}
+.waec_civi_education_2014_paper_q_5 {max-width:400px; max-height:197px; }
+.waec_civi_education_2014_paper_q_5::after {content: '\00a0';display: inline-block; width:400px; height:197px; background-position: 50% 55.52486187845304%; background-size: 100.5% 283.75634517766497%; background-image: url(waecciviced2014_0.png);padding: 0; }
+div.waec_civi_education_2014_paper_q_5::after {max-width:400px; width:100%;height:0;padding: 0 0 49.25% 0;}
+.waec_civi_education_2014_paper_sol_5 {max-width:318px; max-height:159px; }
+.waec_civi_education_2014_paper_sol_5::after {content: '\00a0';display: inline-block; width:318px; height:159px; background-position: 1.1904761904761905% 99.75%; background-size: 126.41509433962264% 351.57232704402514%; background-image: url(waecciviced2014_0.png);padding: 0; }
+div.waec_civi_education_2014_paper_sol_5::after {max-width:318px; width:100%;height:0;padding: 0 0 50% 0;}
+
+@keyframes waec_civi_education_2014_paper_q-frames {
+    0% { background-position: 50% 55.52486187845304%;  }
+    25% { background-position: 50% 55.52486187845304%;  }
+    50% { background-position: 50% 0.2777777777777778%;  }
+    75% { background-position: 50% 0.2777777777777778%;  }
+}
+
+.waec_civi_education_2014_paper_q-animation {
+    max-width: 400px;
+    max-height: 197px;
+}
+.waec_civi_education_2014_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 197px;
+    padding: 0;
+    background-image: url(waecciviced2014_0.png);
+    background-size: 100.5% 283.75634517766497%; 
+    animation-name: waec_civi_education_2014_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_civi_education_2014_paper_q-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 49.25% 0;
+}
+
+/* $TexturePacker:SmartUpdate:1422b59418a4c2d63b4c6b5c705a9a77:2fd818cb0656df6b15c8305da98e0970:183dc7ed0e2ec8a1645952a109277510$ */

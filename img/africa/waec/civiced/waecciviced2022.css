@@ -1,0 +1,61 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_civic_education_2022_paper_q_15 {max-width:400px; max-height:261px; }
+.waec_civic_education_2022_paper_q_15::after {content: '\00a0';display: inline-block; width:400px; height:261px; background-position: 99.66555183946488% 20%; background-size: 174.75% 101.91570881226053%; background-image: url(waecciviced2022_0.png);padding: 0; }
+div.waec_civic_education_2022_paper_q_15::after {max-width:400px; width:100%;height:0;padding: 0 0 65.25% 0;}
+.waec_civic_education_2022_paper_q_16 {max-width:400px; max-height:261px; }
+.waec_civic_education_2022_paper_q_16::after {content: '\00a0';display: inline-block; width:400px; height:261px; background-position: 99.66555183946488% 20%; background-size: 174.75% 101.91570881226053%; background-image: url(waecciviced2022_0.png);padding: 0; }
+div.waec_civic_education_2022_paper_q_16::after {max-width:400px; width:100%;height:0;padding: 0 0 65.25% 0;}
+.waec_civic_education_2022_paper_q_17 {max-width:400px; max-height:261px; }
+.waec_civic_education_2022_paper_q_17::after {content: '\00a0';display: inline-block; width:400px; height:261px; background-position: 99.66555183946488% 20%; background-size: 174.75% 101.91570881226053%; background-image: url(waecciviced2022_0.png);padding: 0; }
+div.waec_civic_education_2022_paper_q_17::after {max-width:400px; width:100%;height:0;padding: 0 0 65.25% 0;}
+.waec_civic_education_2022_paper_q_18 {max-width:400px; max-height:261px; }
+.waec_civic_education_2022_paper_q_18::after {content: '\00a0';display: inline-block; width:400px; height:261px; background-position: 99.66555183946488% 20%; background-size: 174.75% 101.91570881226053%; background-image: url(waecciviced2022_0.png);padding: 0; }
+div.waec_civic_education_2022_paper_q_18::after {max-width:400px; width:100%;height:0;padding: 0 0 65.25% 0;}
+.waec_civic_education_2022_paper_q_44 {max-width:296px; max-height:264px; }
+.waec_civic_education_2022_paper_q_44::after {content: '\00a0';display: inline-block; width:296px; height:264px; background-position: 0.24813895781637718% 50%; background-size: 236.14864864864865% 100.75757575757575%; background-image: url(waecciviced2022_0.png);padding: 0; }
+div.waec_civic_education_2022_paper_q_44::after {max-width:296px; width:100%;height:0;padding: 0 0 89.1891891891892% 0;}
+.waec_civic_education_2022_paper_q_45 {max-width:296px; max-height:264px; }
+.waec_civic_education_2022_paper_q_45::after {content: '\00a0';display: inline-block; width:296px; height:264px; background-position: 0.24813895781637718% 50%; background-size: 236.14864864864865% 100.75757575757575%; background-image: url(waecciviced2022_0.png);padding: 0; }
+div.waec_civic_education_2022_paper_q_45::after {max-width:296px; width:100%;height:0;padding: 0 0 89.1891891891892% 0;}
+
+@keyframes waec_civic_education_2022_paper_q-frames {
+    0% { background-position: 99.66555183946488% 20%;  }
+    16.666666666666664% { background-position: 99.66555183946488% 20%;  }
+    33.33333333333333% { background-position: 99.66555183946488% 20%;  }
+    50% { background-position: 99.66555183946488% 20%;  }
+    66.66666666666666% { background-position: 0.24813895781637718% 50%;  }
+    83.33333333333334% { background-position: 0.24813895781637718% 50%;  }
+}
+
+.waec_civic_education_2022_paper_q-animation {
+    max-width: 400px;
+    max-height: 261px;
+}
+.waec_civic_education_2022_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 261px;
+    padding: 0;
+    background-image: url(waecciviced2022_0.png);
+    background-size: 174.75% 101.91570881226053%; 
+    animation-name: waec_civic_education_2022_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_civic_education_2022_paper_q-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 65.25% 0;
+}
+
+/* $TexturePacker:SmartUpdate:dabfa092a74a939e6835871ced0675d8:b32713d7b0d0e064df2279b66bf09719:47cafd97c1223da857ef9d3eb8796e66$ */

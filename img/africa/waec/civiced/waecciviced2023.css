@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_civic_education_2023_paper_q_21 {max-width:271px; max-height:170px; }
+.waec_civic_education_2023_paper_q_21::after {content: '\00a0';display: inline-block; width:271px; height:170px; background-position: 50% 50%; background-size: 100.7380073800738% 101.17647058823529%; background-image: url(waecciviced2023_0.png);padding: 0; }
+div.waec_civic_education_2023_paper_q_21::after {max-width:271px; width:100%;height:0;padding: 0 0 62.730627306273064% 0;}
+.waec_civic_education_2023_paper_q_22 {max-width:271px; max-height:170px; }
+.waec_civic_education_2023_paper_q_22::after {content: '\00a0';display: inline-block; width:271px; height:170px; background-position: 50% 50%; background-size: 100.7380073800738% 101.17647058823529%; background-image: url(waecciviced2023_0.png);padding: 0; }
+div.waec_civic_education_2023_paper_q_22::after {max-width:271px; width:100%;height:0;padding: 0 0 62.730627306273064% 0;}
+
+@keyframes waec_civic_education_2023_paper_q-frames {
+    0% { background-position: 50% 50%;  }
+    50% { background-position: 50% 50%;  }
+}
+
+.waec_civic_education_2023_paper_q-animation {
+    max-width: 271px;
+    max-height: 170px;
+}
+.waec_civic_education_2023_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 271px;
+    height: 170px;
+    padding: 0;
+    background-image: url(waecciviced2023_0.png);
+    background-size: 100.7380073800738% 101.17647058823529%; 
+    animation-name: waec_civic_education_2023_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_civic_education_2023_paper_q-animation::after {
+    max-width: 271px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 62.730627306273064% 0;
+}
+
+/* $TexturePacker:SmartUpdate:ab821b845e0d706a88334769cdfe15b9:b4388fc7870ef881b5a5dcb577e8213c:e6e3bfd8400c543605c91f1047eacf5c$ */

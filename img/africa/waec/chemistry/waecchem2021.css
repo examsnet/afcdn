@@ -7,27 +7,27 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 .waec_chemistry_2021_paper_q_20 {max-width:314px; max-height:206px; }
-.waec_chemistry_2021_paper_q_20::after {content: '\00a0';display: inline-block; width:314px; height:206px; background-position: 99.90884229717412% 42.630057803468205%; background-size: 449.3630573248408% 771.8446601941747%; background-image: url(waecchem2021_0.png);padding: 0; }
+.waec_chemistry_2021_paper_q_20::after {content: '\00a0';display: inline-block; width:314px; height:206px; background-position: 33.09287646528404% 99.65635738831615%; background-size: 453.18471337579615% 241.2621359223301%; background-image: url(waecchem2021_0.png);padding: 0; }
 div.waec_chemistry_2021_paper_q_20::after {max-width:314px; width:100%;height:0;padding: 0 0 65.60509554140127% 0;}
-.waec_chemistry_2021_paper_q_25 {max-width:1114px; max-height:588px; }
-.waec_chemistry_2021_paper_q_25::after {content: '\00a0';display: inline-block; width:1114px; height:588px; background-position: 0.3367003367003367% 0.0998003992015968%; background-size: 126.66068222621185% 270.40816326530614%; background-image: url(waecchem2021_0.png);padding: 0; }
-div.waec_chemistry_2021_paper_q_25::after {max-width:1114px; width:100%;height:0;padding: 0 0 52.782764811490125% 0;}
-.waec_chemistry_2021_paper_q_41 {max-width:1094px; max-height:710px; }
-.waec_chemistry_2021_paper_q_41::after {content: '\00a0';display: inline-block; width:1094px; height:710px; background-position: 0.31545741324921134% 67.04545454545455%; background-size: 128.97623400365632% 223.94366197183098%; background-image: url(waecchem2021_0.png);padding: 0; }
-div.waec_chemistry_2021_paper_q_41::after {max-width:1094px; width:100%;height:0;padding: 0 0 64.89945155393053% 0;}
+.waec_chemistry_2021_paper_q_25 {max-width:400px; max-height:211px; }
+.waec_chemistry_2021_paper_q_25::after {content: '\00a0';display: inline-block; width:400px; height:211px; background-position: 99.90224828934507% 91.60839160839161%; background-size: 355.75% 235.54502369668248%; background-image: url(waecchem2021_0.png);padding: 0; }
+div.waec_chemistry_2021_paper_q_25::after {max-width:400px; width:100%;height:0;padding: 0 0 52.75% 0;}
+.waec_chemistry_2021_paper_q_41 {max-width:400px; max-height:260px; }
+.waec_chemistry_2021_paper_q_41::after {content: '\00a0';display: inline-block; width:400px; height:260px; background-position: 99.90224828934507% 0.4219409282700422%; background-size: 355.75% 191.15384615384616%; background-image: url(waecchem2021_0.png);padding: 0; }
+div.waec_chemistry_2021_paper_q_41::after {max-width:400px; width:100%;height:0;padding: 0 0 65% 0;}
 .waec_chemistry_2021_paper_q_7 {max-width:365px; max-height:206px; }
-.waec_chemistry_2021_paper_q_7::after {content: '\00a0';display: inline-block; width:365px; height:206px; background-position: 97.7055449330784% 94.0028901734104%; background-size: 386.5753424657534% 771.8446601941747%; background-image: url(waecchem2021_0.png);padding: 0; }
+.waec_chemistry_2021_paper_q_7::after {content: '\00a0';display: inline-block; width:365px; height:206px; background-position: 0.0945179584120983% 99.65635738831615%; background-size: 389.86301369863014% 241.2621359223301%; background-image: url(waecchem2021_0.png);padding: 0; }
 div.waec_chemistry_2021_paper_q_7::after {max-width:365px; width:100%;height:0;padding: 0 0 56.43835616438356% 0;}
 .waec_chemistry_2021_paper_q_9 {max-width:1020px; max-height:288px; }
-.waec_chemistry_2021_paper_q_9::after {content: '\00a0';display: inline-block; width:1020px; height:288px; background-position: 0.2557544757033248% 99.92319508448541%; background-size: 138.33333333333334% 552.0833333333334%; background-image: url(waecchem2021_0.png);padding: 0; }
+.waec_chemistry_2021_paper_q_9::after {content: '\00a0';display: inline-block; width:1020px; height:288px; background-position: 0.24813895781637718% 0.4784688995215311%; background-size: 139.50980392156862% 172.56944444444446%; background-image: url(waecchem2021_0.png);padding: 0; }
 div.waec_chemistry_2021_paper_q_9::after {max-width:1020px; width:100%;height:0;padding: 0 0 28.235294117647058% 0;}
 
 @keyframes waec_chemistry_2021_paper_q-frames {
-    0% { background-position: 97.7055449330784% 94.0028901734104%;  }
-    20% { background-position: 0.2557544757033248% 99.92319508448541%;  }
-    40% { background-position: 99.90884229717412% 42.630057803468205%;  }
-    60% { background-position: 0.3367003367003367% 0.0998003992015968%;  }
-    80% { background-position: 0.31545741324921134% 67.04545454545455%;  }
+    0% { background-position: 0.0945179584120983% 99.65635738831615%;  }
+    20% { background-position: 0.24813895781637718% 0.4784688995215311%;  }
+    40% { background-position: 33.09287646528404% 99.65635738831615%;  }
+    60% { background-position: 99.90224828934507% 91.60839160839161%;  }
+    80% { background-position: 99.90224828934507% 0.4219409282700422%;  }
 }
 
 .waec_chemistry_2021_paper_q-animation {
@@ -41,7 +41,7 @@ div.waec_chemistry_2021_paper_q_9::after {max-width:1020px; width:100%;height:0;
     height: 206px;
     padding: 0;
     background-image: url(waecchem2021_0.png);
-    background-size: 386.5753424657534% 771.8446601941747%; 
+    background-size: 389.86301369863014% 241.2621359223301%; 
     animation-name: waec_chemistry_2021_paper_q-frames;
     animation-timing-function: steps(1);
     animation-duration: 1s;
@@ -54,4 +54,4 @@ div.waec_chemistry_2021_paper_q-animation::after {
     padding: 0 0 56.43835616438356% 0;
 }
 
-/* $TexturePacker:SmartUpdate:a2102952ae21f3fa0c981111ed292af0:2edaf427c492746c19781687898811b3:1af60b1a1d94f225117c0fb80921cfdc$ */
+/* $TexturePacker:SmartUpdate:f1373804154cdf6e643ce6b90f27b907:e42a29af408ff38fff68dbb377137d43:1af60b1a1d94f225117c0fb80921cfdc$ */

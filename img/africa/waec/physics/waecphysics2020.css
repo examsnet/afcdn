@@ -6,47 +6,83 @@ Inline:     <i class="yourspritesname"></i>
 Responsive: <div class="yourspritesname"></div>
 */
 
+.waec_physics_2020_paper_q_12 {max-width:299px; max-height:168px; }
+.waec_physics_2020_paper_q_12::after {content: '\00a0';display: inline-block; width:299px; height:168px; background-position: 0.1984126984126984% 99.87864077669903%; background-size: 268.561872909699% 590.4761904761905%; background-image: url(waecphysics2020_0.png);padding: 0; }
+div.waec_physics_2020_paper_q_12::after {max-width:299px; width:100%;height:0;padding: 0 0 56.187290969899664% 0;}
 .waec_physics_2020_paper_q_23 {max-width:400px; max-height:139px; }
-.waec_physics_2020_paper_q_23::after {content: '\00a0';display: inline-block; width:400px; height:139px; background-position: 50% 46.39556377079482%; background-size: 100.5% 489.2086330935252%; background-image: url(waecphysics2020_0.png);padding: 0; }
+.waec_physics_2020_paper_q_23::after {content: '\00a0';display: inline-block; width:400px; height:139px; background-position: 99.75186104218362% 65.88511137162955%; background-size: 200.75% 713.6690647482014%; background-image: url(waecphysics2020_0.png);padding: 0; }
 div.waec_physics_2020_paper_q_23::after {max-width:400px; width:100%;height:0;padding: 0 0 34.75% 0;}
 .waec_physics_2020_paper_q_26 {max-width:400px; max-height:120px; }
-.waec_physics_2020_paper_q_26::after {content: '\00a0';display: inline-block; width:400px; height:120px; background-position: 50% 69.82142857142857%; background-size: 100.5% 566.6666666666666%; background-image: url(waecphysics2020_0.png);padding: 0; }
+.waec_physics_2020_paper_q_26::after {content: '\00a0';display: inline-block; width:400px; height:120px; background-position: 99.75186104218362% 80.5045871559633%; background-size: 200.75% 826.6666666666666%; background-image: url(waecphysics2020_0.png);padding: 0; }
 div.waec_physics_2020_paper_q_26::after {max-width:400px; width:100%;height:0;padding: 0 0 30% 0;}
 .waec_physics_2020_paper_q_34 {max-width:400px; max-height:249px; }
-.waec_physics_2020_paper_q_34::after {content: '\00a0';display: inline-block; width:400px; height:249px; background-position: 50% 0.23201856148491878%; background-size: 100.5% 273.09236947791163%; background-image: url(waecphysics2020_0.png);padding: 0; }
+.waec_physics_2020_paper_q_34::after {content: '\00a0';display: inline-block; width:400px; height:249px; background-position: 0.24813895781637718% 75.6393001345895%; background-size: 200.75% 398.39357429718876%; background-image: url(waecphysics2020_0.png);padding: 0; }
 div.waec_physics_2020_paper_q_34::after {max-width:400px; width:100%;height:0;padding: 0 0 62.25% 0;}
 .waec_physics_2020_paper_sol_23 {max-width:322px; max-height:167px; }
-.waec_physics_2020_paper_sol_23::after {content: '\00a0';display: inline-block; width:322px; height:167px; background-position: 1.25% 99.80506822612085%; background-size: 124.84472049689441% 407.18562874251495%; background-image: url(waecphysics2020_0.png);padding: 0; }
+.waec_physics_2020_paper_sol_23::after {content: '\00a0';display: inline-block; width:322px; height:167px; background-position: 62.57796257796258% 99.75757575757575%; background-size: 249.37888198757764% 594.0119760479042%; background-image: url(waecphysics2020_0.png);padding: 0; }
 div.waec_physics_2020_paper_sol_23::after {max-width:322px; width:100%;height:0;padding: 0 0 51.86335403726708% 0;}
+.waec_physics_2020_paper_sol_25 {max-width:774px; max-height:560px; }
+.waec_physics_2020_paper_sol_25::after {content: '\00a0';display: inline-block; width:774px; height:560px; background-position: 3.4482758620689653% 0.23148148148148148%; background-size: 103.7467700258398% 177.14285714285714%; background-image: url(waecphysics2020_0.png);padding: 0; }
+div.waec_physics_2020_paper_sol_25::after {max-width:774px; width:100%;height:0;padding: 0 0 72.3514211886305% 0;}
 
 @keyframes waec_physics_2020_paper_q-frames {
-    0% { background-position: 50% 46.39556377079482%;  }
-    33.33333333333333% { background-position: 50% 69.82142857142857%;  }
-    66.66666666666666% { background-position: 50% 0.23201856148491878%;  }
+    0% { background-position: 0.1984126984126984% 99.87864077669903%;  }
+    25% { background-position: 99.75186104218362% 65.88511137162955%;  }
+    50% { background-position: 99.75186104218362% 80.5045871559633%;  }
+    75% { background-position: 0.24813895781637718% 75.6393001345895%;  }
 }
 
 .waec_physics_2020_paper_q-animation {
-    max-width: 400px;
-    max-height: 139px;
+    max-width: 299px;
+    max-height: 168px;
 }
 .waec_physics_2020_paper_q-animation::after {
     content: '\00a0';
     display: inline-block;
-    width: 400px;
-    height: 139px;
+    width: 299px;
+    height: 168px;
     padding: 0;
     background-image: url(waecphysics2020_0.png);
-    background-size: 100.5% 489.2086330935252%; 
+    background-size: 268.561872909699% 590.4761904761905%; 
     animation-name: waec_physics_2020_paper_q-frames;
     animation-timing-function: steps(1);
     animation-duration: 1s;
     animation-iteration-count: infinite;
 }
 div.waec_physics_2020_paper_q-animation::after {
-    max-width: 400px;
+    max-width: 299px;
     width: 100%;
     height: 0;
-    padding: 0 0 34.75% 0;
+    padding: 0 0 56.187290969899664% 0;
 }
 
-/* $TexturePacker:SmartUpdate:9069182841ef63e50a8232951d8f5686:bdbc8413c7ed32f7522581fc9fc921df:6cbbd744a0d0d3f06e18243e705799a4$ */
+@keyframes waec_physics_2020_paper_sol-frames {
+    0% { background-position: 62.57796257796258% 99.75757575757575%;  }
+    50% { background-position: 3.4482758620689653% 0.23148148148148148%;  }
+}
+
+.waec_physics_2020_paper_sol-animation {
+    max-width: 322px;
+    max-height: 167px;
+}
+.waec_physics_2020_paper_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 322px;
+    height: 167px;
+    padding: 0;
+    background-image: url(waecphysics2020_0.png);
+    background-size: 249.37888198757764% 594.0119760479042%; 
+    animation-name: waec_physics_2020_paper_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_physics_2020_paper_sol-animation::after {
+    max-width: 322px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 51.86335403726708% 0;
+}
+
+/* $TexturePacker:SmartUpdate:099d096f0d5f4314089af0cc28c6989e:5837e544e527b026c665edf703f9ea62:6cbbd744a0d0d3f06e18243e705799a4$ */

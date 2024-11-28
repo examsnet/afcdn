@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_further_mathematics_2013_paper_q_22 {max-width:400px; max-height:170px; }
+.waec_further_mathematics_2013_paper_q_22::after {content: '\00a0';display: inline-block; width:400px; height:170px; background-position: 50% 50%; background-size: 100.5% 101.17647058823529%; background-image: url(waecfurmath2013_0.png);padding: 0; }
+div.waec_further_mathematics_2013_paper_q_22::after {max-width:400px; width:100%;height:0;padding: 0 0 42.5% 0;}
+
+
+/* $TexturePacker:SmartUpdate:9e7e207f0e724ef501a12d55ef28ae8b:46887ad07e3bce182355bd3fc0906001:ab9fe106a54b4f7e11acbb02cb2ce13c$ */

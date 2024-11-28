@@ -1,0 +1,49 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_further_mathematics_2014_paper_q_48 {max-width:444px; max-height:447px; }
+.waec_further_mathematics_2014_paper_q_48::after {content: '\00a0';display: inline-block; width:444px; height:447px; background-position: 85.59670781893004% 84%; background-size: 373.64864864864865% 217.4496644295302%; background-image: url(waecfurmath2014_0.png);padding: 0; }
+div.waec_further_mathematics_2014_paper_q_48::after {max-width:444px; width:100%;height:0;padding: 0 0 100.67567567567568% 0;}
+.waec_further_mathematics_2014_paper_q_52 {max-width:1038px; max-height:970px; }
+.waec_further_mathematics_2014_paper_q_52::after {content: '\00a0';display: inline-block; width:1038px; height:970px; background-position: 0.1610305958132045% 50%; background-size: 159.82658959537574% 100.20618556701031%; background-image: url(waecfurmath2014_0.png);padding: 0; }
+div.waec_further_mathematics_2014_paper_q_52::after {max-width:1038px; width:100%;height:0;padding: 0 0 93.44894026974951% 0;}
+.waec_further_mathematics_2014_paper_q_54 {max-width:618px; max-height:439px; }
+.waec_further_mathematics_2014_paper_q_54::after {content: '\00a0';display: inline-block; width:618px; height:439px; background-position: 99.90393852065321% 0.18761726078799248%; background-size: 268.4466019417476% 221.41230068337129%; background-image: url(waecfurmath2014_0.png);padding: 0; }
+div.waec_further_mathematics_2014_paper_q_54::after {max-width:618px; width:100%;height:0;padding: 0 0 71.03559870550161% 0;}
+
+@keyframes waec_further_mathematics_2014_paper_q-frames {
+    0% { background-position: 85.59670781893004% 84%;  }
+    33.33333333333333% { background-position: 0.1610305958132045% 50%;  }
+    66.66666666666666% { background-position: 99.90393852065321% 0.18761726078799248%;  }
+}
+
+.waec_further_mathematics_2014_paper_q-animation {
+    max-width: 444px;
+    max-height: 447px;
+}
+.waec_further_mathematics_2014_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 444px;
+    height: 447px;
+    padding: 0;
+    background-image: url(waecfurmath2014_0.png);
+    background-size: 373.64864864864865% 217.4496644295302%; 
+    animation-name: waec_further_mathematics_2014_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_further_mathematics_2014_paper_q-animation::after {
+    max-width: 444px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 100.67567567567568% 0;
+}
+
+/* $TexturePacker:SmartUpdate:15e6f5f0210fb6f06959502534790c20:ee8bb80e1e6f2bbdae02b2c54b187841:bc4218f15f3ed389f1a6fa896fd0c00f$ */

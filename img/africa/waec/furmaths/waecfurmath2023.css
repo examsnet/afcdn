@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_further_mathematics_2023_paper_sol_22 {max-width:400px; max-height:160px; }
+.waec_further_mathematics_2023_paper_sol_22::after {content: '\00a0';display: inline-block; width:400px; height:160px; background-position: 50% 50%; background-size: 100.5% 101.25%; background-image: url(waecfurmath2023_0.png);padding: 0; }
+div.waec_further_mathematics_2023_paper_sol_22::after {max-width:400px; width:100%;height:0;padding: 0 0 40% 0;}
+
+
+/* $TexturePacker:SmartUpdate:992d1ea29acd9180680f93a9731f63e1:8b70ae7ab292ff75ba84d70490b1d26b:1d06e76677ac5ad7b152c5977b3454e4$ */

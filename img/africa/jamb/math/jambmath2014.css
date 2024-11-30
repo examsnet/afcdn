@@ -1,0 +1,96 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_mathematics_2014_paper_q_41 {max-width:157px; max-height:181px; }
+.jamb_mathematics_2014_paper_q_41::after {content: '\00a0';display: inline-block; width:157px; height:181px; background-position: 45.41353383458647% 99.54545454545455%; background-size: 523.5668789808917% 221.54696132596686%; background-image: url(jambmath2014_0.png);padding: 0; }
+div.jamb_mathematics_2014_paper_q_41::after {max-width:157px; width:100%;height:0;padding: 0 0 115.28662420382166% 0;}
+.jamb_mathematics_2014_paper_q_42 {max-width:300px; max-height:175px; }
+.jamb_mathematics_2014_paper_q_42::after {content: '\00a0';display: inline-block; width:300px; height:175px; background-position: 99.80842911877394% 0.4424778761061947%; background-size: 274% 229.14285714285714%; background-image: url(jambmath2014_0.png);padding: 0; }
+div.jamb_mathematics_2014_paper_q_42::after {max-width:300px; width:100%;height:0;padding: 0 0 58.333333333333336% 0;}
+.jamb_mathematics_2014_paper_q_43 {max-width:300px; max-height:127px; }
+.jamb_mathematics_2014_paper_q_43::after {content: '\00a0';display: inline-block; width:300px; height:127px; background-position: 99.80842911877394% 64.5985401459854%; background-size: 274% 315.748031496063%; background-image: url(jambmath2014_0.png);padding: 0; }
+div.jamb_mathematics_2014_paper_q_43::after {max-width:300px; width:100%;height:0;padding: 0 0 42.333333333333336% 0;}
+.jamb_mathematics_2014_paper_q_44 {max-width:300px; max-height:106px; }
+.jamb_mathematics_2014_paper_q_44::after {content: '\00a0';display: inline-block; width:300px; height:106px; background-position: 0.19157088122605365% 94.23728813559322%; background-size: 274% 378.3018867924528%; background-image: url(jambmath2014_0.png);padding: 0; }
+div.jamb_mathematics_2014_paper_q_44::after {max-width:300px; width:100%;height:0;padding: 0 0 35.333333333333336% 0;}
+.jamb_mathematics_2014_paper_q_45 {max-width:300px; max-height:276px; }
+.jamb_mathematics_2014_paper_q_45::after {content: '\00a0';display: inline-block; width:300px; height:276px; background-position: 0.19157088122605365% 0.8%; background-size: 274% 145.28985507246378%; background-image: url(jambmath2014_0.png);padding: 0; }
+div.jamb_mathematics_2014_paper_q_45::after {max-width:300px; width:100%;height:0;padding: 0 0 92% 0;}
+.jamb_mathematics_2014_paper_q_46 {max-width:218px; max-height:217px; }
+.jamb_mathematics_2014_paper_q_46::after {content: '\00a0';display: inline-block; width:218px; height:217px; background-position: 50% 0.5434782608695652%; background-size: 377.0642201834862% 184.7926267281106%; background-image: url(jambmath2014_0.png);padding: 0; }
+div.jamb_mathematics_2014_paper_q_46::after {max-width:218px; width:100%;height:0;padding: 0 0 99.54128440366972% 0;}
+.jamb_mathematics_2014_paper_sol_43 {max-width:300px; max-height:127px; }
+.jamb_mathematics_2014_paper_sol_43::after {content: '\00a0';display: inline-block; width:300px; height:127px; background-position: 99.80842911877394% 64.5985401459854%; background-size: 274% 315.748031496063%; background-image: url(jambmath2014_0.png);padding: 0; }
+div.jamb_mathematics_2014_paper_sol_43::after {max-width:300px; width:100%;height:0;padding: 0 0 42.333333333333336% 0;}
+.jamb_mathematics_2014_paper_sol_44 {max-width:300px; max-height:106px; }
+.jamb_mathematics_2014_paper_sol_44::after {content: '\00a0';display: inline-block; width:300px; height:106px; background-position: 0.19157088122605365% 94.23728813559322%; background-size: 274% 378.3018867924528%; background-image: url(jambmath2014_0.png);padding: 0; }
+div.jamb_mathematics_2014_paper_sol_44::after {max-width:300px; width:100%;height:0;padding: 0 0 35.333333333333336% 0;}
+
+@keyframes jamb_mathematics_2014_paper_q-frames {
+    0% { background-position: 45.41353383458647% 99.54545454545455%;  }
+    16.666666666666664% { background-position: 99.80842911877394% 0.4424778761061947%;  }
+    33.33333333333333% { background-position: 99.80842911877394% 64.5985401459854%;  }
+    50% { background-position: 0.19157088122605365% 94.23728813559322%;  }
+    66.66666666666666% { background-position: 0.19157088122605365% 0.8%;  }
+    83.33333333333334% { background-position: 50% 0.5434782608695652%;  }
+}
+
+.jamb_mathematics_2014_paper_q-animation {
+    max-width: 157px;
+    max-height: 181px;
+}
+.jamb_mathematics_2014_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 157px;
+    height: 181px;
+    padding: 0;
+    background-image: url(jambmath2014_0.png);
+    background-size: 523.5668789808917% 221.54696132596686%; 
+    animation-name: jamb_mathematics_2014_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_mathematics_2014_paper_q-animation::after {
+    max-width: 157px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 115.28662420382166% 0;
+}
+
+@keyframes jamb_mathematics_2014_paper_sol-frames {
+    0% { background-position: 99.80842911877394% 64.5985401459854%;  }
+    50% { background-position: 0.19157088122605365% 94.23728813559322%;  }
+}
+
+.jamb_mathematics_2014_paper_sol-animation {
+    max-width: 300px;
+    max-height: 127px;
+}
+.jamb_mathematics_2014_paper_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 127px;
+    padding: 0;
+    background-image: url(jambmath2014_0.png);
+    background-size: 274% 315.748031496063%; 
+    animation-name: jamb_mathematics_2014_paper_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_mathematics_2014_paper_sol-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 42.333333333333336% 0;
+}
+
+/* $TexturePacker:SmartUpdate:80c28199cae6e29f11ad2922a076e40c:fbccacca84220d03c95ab6799998dba6:8b6b25b221e9726fa9ac9525b860166e$ */

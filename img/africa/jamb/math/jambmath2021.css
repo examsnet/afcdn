@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_mathematics_2021_paper_q_5 {max-width:400px; max-height:174px; }
+.jamb_mathematics_2021_paper_q_5::after {content: '\00a0';display: inline-block; width:400px; height:174px; background-position: 50% 0.49019607843137253%; background-size: 100.5% 217.24137931034483%; background-image: url(jambmath2021_0.png);padding: 0; }
+div.jamb_mathematics_2021_paper_q_5::after {max-width:400px; width:100%;height:0;padding: 0 0 43.5% 0;}
+.jamb_mathematics_2021_paper_sol_38 {max-width:370px; max-height:201px; }
+.jamb_mathematics_2021_paper_sol_38::after {content: '\00a0';display: inline-block; width:370px; height:201px; background-position: 3.125% 99.43502824858757%; background-size: 108.64864864864865% 188.0597014925373%; background-image: url(jambmath2021_0.png);padding: 0; }
+div.jamb_mathematics_2021_paper_sol_38::after {max-width:370px; width:100%;height:0;padding: 0 0 54.32432432432432% 0;}
+
+
+/* $TexturePacker:SmartUpdate:699562bb1bcd1baa9182ca4536e78b02:ecb9e859166cd919735ffd9cbca8f935:e852adac8fed2536e011221c8daff195$ */

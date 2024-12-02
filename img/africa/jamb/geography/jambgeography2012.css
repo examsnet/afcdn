@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_geography_2012_paper_q_42 {max-width:300px; max-height:245px; }
+.jamb_geography_2012_paper_q_42::after {content: '\00a0';display: inline-block; width:300px; height:245px; background-position: 50% 0.6802721088435374%; background-size: 100.66666666666667% 160%; background-image: url(jambgeography2012_0.png);padding: 0; }
+div.jamb_geography_2012_paper_q_42::after {max-width:300px; width:100%;height:0;padding: 0 0 81.66666666666667% 0;}
+.jamb_geography_2012_paper_q_43 {max-width:300px; max-height:245px; }
+.jamb_geography_2012_paper_q_43::after {content: '\00a0';display: inline-block; width:300px; height:245px; background-position: 50% 0.6802721088435374%; background-size: 100.66666666666667% 160%; background-image: url(jambgeography2012_0.png);padding: 0; }
+div.jamb_geography_2012_paper_q_43::after {max-width:300px; width:100%;height:0;padding: 0 0 81.66666666666667% 0;}
+.jamb_geography_2012_paper_q_44 {max-width:300px; max-height:144px; }
+.jamb_geography_2012_paper_q_44::after {content: '\00a0';display: inline-block; width:300px; height:144px; background-position: 50% 99.59677419354838%; background-size: 100.66666666666667% 272.22222222222223%; background-image: url(jambgeography2012_0.png);padding: 0; }
+div.jamb_geography_2012_paper_q_44::after {max-width:300px; width:100%;height:0;padding: 0 0 48% 0;}
+.jamb_geography_2012_paper_q_45 {max-width:300px; max-height:144px; }
+.jamb_geography_2012_paper_q_45::after {content: '\00a0';display: inline-block; width:300px; height:144px; background-position: 50% 99.59677419354838%; background-size: 100.66666666666667% 272.22222222222223%; background-image: url(jambgeography2012_0.png);padding: 0; }
+div.jamb_geography_2012_paper_q_45::after {max-width:300px; width:100%;height:0;padding: 0 0 48% 0;}
+
+@keyframes jamb_geography_2012_paper_q-frames {
+    0% { background-position: 50% 0.6802721088435374%;  }
+    25% { background-position: 50% 0.6802721088435374%;  }
+    50% { background-position: 50% 99.59677419354838%;  }
+    75% { background-position: 50% 99.59677419354838%;  }
+}
+
+.jamb_geography_2012_paper_q-animation {
+    max-width: 300px;
+    max-height: 245px;
+}
+.jamb_geography_2012_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 245px;
+    padding: 0;
+    background-image: url(jambgeography2012_0.png);
+    background-size: 100.66666666666667% 160%; 
+    animation-name: jamb_geography_2012_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_geography_2012_paper_q-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 81.66666666666667% 0;
+}
+
+/* $TexturePacker:SmartUpdate:edc89338dce8177d9e5943853604d7b1:84822d22fc503de09fdec8f7e96aca45:a29d086394e899b8fa04f0d1c403acff$ */

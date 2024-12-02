@@ -1,0 +1,49 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_islamic_religious_knowledge_(irk)_2011_paper_q_14 {max-width:211px; max-height:50px; }
+.jamb_islamic_religious_knowledge_(irk)_2011_paper_q_14::after {content: '\00a0';display: inline-block; width:211px; height:50px; background-position: 99.581589958159% 1.4285714285714286%; background-size: 213.27014218009478% 240%; background-image: url(jambirk2011_0.png);padding: 0; }
+div.jamb_islamic_religious_knowledge_(irk)_2011_paper_q_14::after {max-width:211px; width:100%;height:0;padding: 0 0 23.696682464454977% 0;}
+.jamb_islamic_religious_knowledge_(irk)_2011_paper_q_16 {max-width:236px; max-height:43px; }
+.jamb_islamic_religious_knowledge_(irk)_2011_paper_q_16::after {content: '\00a0';display: inline-block; width:236px; height:43px; background-position: 0.4672897196261682% 1.2987012987012987%; background-size: 190.67796610169492% 279.06976744186045%; background-image: url(jambirk2011_0.png);padding: 0; }
+div.jamb_islamic_religious_knowledge_(irk)_2011_paper_q_16::after {max-width:236px; width:100%;height:0;padding: 0 0 18.220338983050848% 0;}
+.jamb_islamic_religious_knowledge_(irk)_2011_paper_q_5 {max-width:294px; max-height:67px; }
+.jamb_islamic_religious_knowledge_(irk)_2011_paper_q_5::after {content: '\00a0';display: inline-block; width:294px; height:67px; background-position: 0.6410256410256411% 98.11320754716981%; background-size: 153.0612244897959% 179.1044776119403%; background-image: url(jambirk2011_0.png);padding: 0; }
+div.jamb_islamic_religious_knowledge_(irk)_2011_paper_q_5::after {max-width:294px; width:100%;height:0;padding: 0 0 22.789115646258505% 0;}
+
+@keyframes jamb_islamic_religious_knowledge_(irk)_2011_paper_q-frames {
+    0% { background-position: 0.6410256410256411% 98.11320754716981%;  }
+    33.33333333333333% { background-position: 99.581589958159% 1.4285714285714286%;  }
+    66.66666666666666% { background-position: 0.4672897196261682% 1.2987012987012987%;  }
+}
+
+.jamb_islamic_religious_knowledge_(irk)_2011_paper_q-animation {
+    max-width: 294px;
+    max-height: 67px;
+}
+.jamb_islamic_religious_knowledge_(irk)_2011_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 294px;
+    height: 67px;
+    padding: 0;
+    background-image: url(jambirk2011_0.png);
+    background-size: 153.0612244897959% 179.1044776119403%; 
+    animation-name: jamb_islamic_religious_knowledge_(irk)_2011_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_islamic_religious_knowledge_(irk)_2011_paper_q-animation::after {
+    max-width: 294px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 22.789115646258505% 0;
+}
+
+/* $TexturePacker:SmartUpdate:3bab81a8c2b8585f3a8b74d1ed119423:f65182d2c6bc80224c8258a3094e9049:98777051fdc2a37d209e2b724200fa39$ */

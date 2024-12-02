@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_physics_2022_paper_q_20 {max-width:327px; max-height:163px; }
+.jamb_physics_2022_paper_q_20::after {content: '\00a0';display: inline-block; width:327px; height:163px; background-position: 50% 50%; background-size: 100.61162079510703% 101.22699386503068%; background-image: url(jambphysics2022_0.png);padding: 0; }
+div.jamb_physics_2022_paper_q_20::after {max-width:327px; width:100%;height:0;padding: 0 0 49.84709480122324% 0;}
+
+
+/* $TexturePacker:SmartUpdate:4a75a68822c5c9e997bac6d73728d304:c59932883bc0c1ba6f46ca4f4d4dc2b8:deb8f37f6861f57fd3a9fb656bbc0b56$ */

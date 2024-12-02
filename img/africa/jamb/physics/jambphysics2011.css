@@ -1,0 +1,49 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_physics_2011_paper_q_40 {max-width:300px; max-height:168px; }
+.jamb_physics_2011_paper_q_40::after {content: '\00a0';display: inline-block; width:300px; height:168px; background-position: 50% 0.29411764705882354%; background-size: 100.66666666666667% 302.3809523809524%; background-image: url(jambphysics2011_0.png);padding: 0; }
+div.jamb_physics_2011_paper_q_40::after {max-width:300px; width:100%;height:0;padding: 0 0 56% 0;}
+.jamb_physics_2011_paper_q_41 {max-width:300px; max-height:168px; }
+.jamb_physics_2011_paper_q_41::after {content: '\00a0';display: inline-block; width:300px; height:168px; background-position: 50% 50%; background-size: 100.66666666666667% 302.3809523809524%; background-image: url(jambphysics2011_0.png);padding: 0; }
+div.jamb_physics_2011_paper_q_41::after {max-width:300px; width:100%;height:0;padding: 0 0 56% 0;}
+.jamb_physics_2011_paper_q_45 {max-width:300px; max-height:168px; }
+.jamb_physics_2011_paper_q_45::after {content: '\00a0';display: inline-block; width:300px; height:168px; background-position: 50% 99.70588235294117%; background-size: 100.66666666666667% 302.3809523809524%; background-image: url(jambphysics2011_0.png);padding: 0; }
+div.jamb_physics_2011_paper_q_45::after {max-width:300px; width:100%;height:0;padding: 0 0 56% 0;}
+
+@keyframes jamb_physics_2011_paper_q-frames {
+    0% { background-position: 50% 0.29411764705882354%;  }
+    33.33333333333333% { background-position: 50% 50%;  }
+    66.66666666666666% { background-position: 50% 99.70588235294117%;  }
+}
+
+.jamb_physics_2011_paper_q-animation {
+    max-width: 300px;
+    max-height: 168px;
+}
+.jamb_physics_2011_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 168px;
+    padding: 0;
+    background-image: url(jambphysics2011_0.png);
+    background-size: 100.66666666666667% 302.3809523809524%; 
+    animation-name: jamb_physics_2011_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_physics_2011_paper_q-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 56% 0;
+}
+
+/* $TexturePacker:SmartUpdate:c5f3c6c58f39fbeeabf8cbf2ab81f89d:2ed959198620c09dec54da6a20f76162:8f6351b143e7b2399c41918c421c2b3e$ */

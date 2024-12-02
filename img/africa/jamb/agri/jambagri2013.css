@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_agricultural_science_2013_paper_q_11 {max-width:201px; max-height:219px; }
+.jamb_agricultural_science_2013_paper_q_11::after {content: '\00a0';display: inline-block; width:201px; height:219px; background-position: 35.1931330472103% 20%; background-size: 331.8407960199005% 102.28310502283105%; background-image: url(jambagri2013_0.png);padding: 0; }
+div.jamb_agricultural_science_2013_paper_q_11::after {max-width:201px; width:100%;height:0;padding: 0 0 108.95522388059702% 0;}
+.jamb_agricultural_science_2013_paper_q_12 {max-width:201px; max-height:219px; }
+.jamb_agricultural_science_2013_paper_q_12::after {content: '\00a0';display: inline-block; width:201px; height:219px; background-position: 35.1931330472103% 20%; background-size: 331.8407960199005% 102.28310502283105%; background-image: url(jambagri2013_0.png);padding: 0; }
+div.jamb_agricultural_science_2013_paper_q_12::after {max-width:201px; width:100%;height:0;padding: 0 0 108.95522388059702% 0;}
+.jamb_agricultural_science_2013_paper_q_35 {max-width:300px; max-height:160px; }
+.jamb_agricultural_science_2013_paper_q_35::after {content: '\00a0';display: inline-block; width:300px; height:160px; background-position: 99.7275204359673% 1.5625%; background-size: 222.33333333333334% 140%; background-image: url(jambagri2013_0.png);padding: 0; }
+div.jamb_agricultural_science_2013_paper_q_35::after {max-width:300px; width:100%;height:0;padding: 0 0 53.333333333333336% 0;}
+.jamb_agricultural_science_2013_paper_q_42 {max-width:162px; max-height:222px; }
+.jamb_agricultural_science_2013_paper_q_42::after {content: '\00a0';display: inline-block; width:162px; height:222px; background-position: 0.19801980198019803% 50%; background-size: 411.7283950617284% 100.90090090090091%; background-image: url(jambagri2013_0.png);padding: 0; }
+div.jamb_agricultural_science_2013_paper_q_42::after {max-width:162px; width:100%;height:0;padding: 0 0 137.03703703703704% 0;}
+
+@keyframes jamb_agricultural_science_2013_paper_q-frames {
+    0% { background-position: 35.1931330472103% 20%;  }
+    25% { background-position: 35.1931330472103% 20%;  }
+    50% { background-position: 99.7275204359673% 1.5625%;  }
+    75% { background-position: 0.19801980198019803% 50%;  }
+}
+
+.jamb_agricultural_science_2013_paper_q-animation {
+    max-width: 201px;
+    max-height: 219px;
+}
+.jamb_agricultural_science_2013_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 201px;
+    height: 219px;
+    padding: 0;
+    background-image: url(jambagri2013_0.png);
+    background-size: 331.8407960199005% 102.28310502283105%; 
+    animation-name: jamb_agricultural_science_2013_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_agricultural_science_2013_paper_q-animation::after {
+    max-width: 201px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 108.95522388059702% 0;
+}
+
+/* $TexturePacker:SmartUpdate:423386613fad70e83d89d6dc6f6ac36a:c13178fdc3ec78ea3399ca182d9ec5cd:38e371d115c55fed789cf94b297c1e9d$ */

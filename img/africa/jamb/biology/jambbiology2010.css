@@ -1,0 +1,72 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_biology_2010_paper_q_42 {max-width:300px; max-height:139px; }
+.jamb_biology_2010_paper_q_42::after {content: '\00a0';display: inline-block; width:300px; height:139px; background-position: 0.14204545454545456% 93.9068100358423%; background-size: 334.6666666666667% 300.71942446043164%; background-image: url(jambbiology2010_0.png);padding: 0; }
+div.jamb_biology_2010_paper_q_42::after {max-width:300px; width:100%;height:0;padding: 0 0 46.333333333333336% 0;}
+.jamb_biology_2010_paper_q_43 {max-width:300px; max-height:139px; }
+.jamb_biology_2010_paper_q_43::after {content: '\00a0';display: inline-block; width:300px; height:139px; background-position: 0.14204545454545456% 93.9068100358423%; background-size: 334.6666666666667% 300.71942446043164%; background-image: url(jambbiology2010_0.png);padding: 0; }
+div.jamb_biology_2010_paper_q_43::after {max-width:300px; width:100%;height:0;padding: 0 0 46.333333333333336% 0;}
+.jamb_biology_2010_paper_q_44 {max-width:300px; max-height:244px; }
+.jamb_biology_2010_paper_q_44::after {content: '\00a0';display: inline-block; width:300px; height:244px; background-position: 42.89772727272727% 0.5747126436781609%; background-size: 334.6666666666667% 171.31147540983608%; background-image: url(jambbiology2010_0.png);padding: 0; }
+div.jamb_biology_2010_paper_q_44::after {max-width:300px; width:100%;height:0;padding: 0 0 81.33333333333333% 0;}
+.jamb_biology_2010_paper_q_45 {max-width:300px; max-height:244px; }
+.jamb_biology_2010_paper_q_45::after {content: '\00a0';display: inline-block; width:300px; height:244px; background-position: 42.89772727272727% 0.5747126436781609%; background-size: 334.6666666666667% 171.31147540983608%; background-image: url(jambbiology2010_0.png);padding: 0; }
+div.jamb_biology_2010_paper_q_45::after {max-width:300px; width:100%;height:0;padding: 0 0 81.33333333333333% 0;}
+.jamb_biology_2010_paper_q_46 {max-width:300px; max-height:260px; }
+.jamb_biology_2010_paper_q_46::after {content: '\00a0';display: inline-block; width:300px; height:260px; background-position: 0.14204545454545456% 0.6329113924050633%; background-size: 334.6666666666667% 160.76923076923077%; background-image: url(jambbiology2010_0.png);padding: 0; }
+div.jamb_biology_2010_paper_q_46::after {max-width:300px; width:100%;height:0;padding: 0 0 86.66666666666667% 0;}
+.jamb_biology_2010_paper_q_47 {max-width:300px; max-height:260px; }
+.jamb_biology_2010_paper_q_47::after {content: '\00a0';display: inline-block; width:300px; height:260px; background-position: 0.14204545454545456% 0.6329113924050633%; background-size: 334.6666666666667% 160.76923076923077%; background-image: url(jambbiology2010_0.png);padding: 0; }
+div.jamb_biology_2010_paper_q_47::after {max-width:300px; width:100%;height:0;padding: 0 0 86.66666666666667% 0;}
+.jamb_biology_2010_paper_q_48 {max-width:300px; max-height:171px; }
+.jamb_biology_2010_paper_q_48::after {content: '\00a0';display: inline-block; width:300px; height:171px; background-position: 42.89772727272727% 99.59514170040485%; background-size: 334.6666666666667% 244.44444444444446%; background-image: url(jambbiology2010_0.png);padding: 0; }
+div.jamb_biology_2010_paper_q_48::after {max-width:300px; width:100%;height:0;padding: 0 0 57% 0;}
+.jamb_biology_2010_paper_q_49 {max-width:300px; max-height:181px; }
+.jamb_biology_2010_paper_q_49::after {content: '\00a0';display: inline-block; width:300px; height:181px; background-position: 85.6534090909091% 87.76371308016877%; background-size: 334.6666666666667% 230.939226519337%; background-image: url(jambbiology2010_0.png);padding: 0; }
+div.jamb_biology_2010_paper_q_49::after {max-width:300px; width:100%;height:0;padding: 0 0 60.333333333333336% 0;}
+.jamb_biology_2010_paper_sol_26 {max-width:400px; max-height:206px; }
+.jamb_biology_2010_paper_sol_26::after {content: '\00a0';display: inline-block; width:400px; height:206px; background-position: 99.83443708609272% 0.4716981132075472%; background-size: 251% 202.9126213592233%; background-image: url(jambbiology2010_0.png);padding: 0; }
+div.jamb_biology_2010_paper_sol_26::after {max-width:400px; width:100%;height:0;padding: 0 0 51.5% 0;}
+
+@keyframes jamb_biology_2010_paper_q-frames {
+    0% { background-position: 0.14204545454545456% 93.9068100358423%;  }
+    12.5% { background-position: 0.14204545454545456% 93.9068100358423%;  }
+    25% { background-position: 42.89772727272727% 0.5747126436781609%;  }
+    37.5% { background-position: 42.89772727272727% 0.5747126436781609%;  }
+    50% { background-position: 0.14204545454545456% 0.6329113924050633%;  }
+    62.5% { background-position: 0.14204545454545456% 0.6329113924050633%;  }
+    75% { background-position: 42.89772727272727% 99.59514170040485%;  }
+    87.5% { background-position: 85.6534090909091% 87.76371308016877%;  }
+}
+
+.jamb_biology_2010_paper_q-animation {
+    max-width: 300px;
+    max-height: 139px;
+}
+.jamb_biology_2010_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 139px;
+    padding: 0;
+    background-image: url(jambbiology2010_0.png);
+    background-size: 334.6666666666667% 300.71942446043164%; 
+    animation-name: jamb_biology_2010_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_biology_2010_paper_q-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 46.333333333333336% 0;
+}
+
+/* $TexturePacker:SmartUpdate:f9be99dc60010d2550a1f669378d6e6c:d8b7b5a57ed9a42108f9f026b92c5cac:2c15105c1d4a77c28737a1b95cca3a08$ */

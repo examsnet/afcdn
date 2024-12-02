@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_chemistry_2020_paper_q_7 {max-width:300px; max-height:139px; }
+.jamb_chemistry_2020_paper_q_7::after {content: '\00a0';display: inline-block; width:300px; height:139px; background-position: 50% 50%; background-size: 100.66666666666667% 101.43884892086331%; background-image: url(jambchemistry2020_0.png);padding: 0; }
+div.jamb_chemistry_2020_paper_q_7::after {max-width:300px; width:100%;height:0;padding: 0 0 46.333333333333336% 0;}
+
+
+/* $TexturePacker:SmartUpdate:d883d1def2bf8e661c05459ed44d65a2:e2dbdaf8b581f027caa1c10b5fedcb20:54163a680ef5697c544039dbefb3f4e4$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_chemistry_2022_paper_q_2 {max-width:178px; max-height:111px; }
+.jamb_chemistry_2022_paper_q_2::after {content: '\00a0';display: inline-block; width:178px; height:111px; background-position: 2.5641025641025643% 99.3103448275862%; background-size: 121.91011235955057% 230.63063063063063%; background-image: url(jambchemistry2022_0.png);padding: 0; }
+div.jamb_chemistry_2022_paper_q_2::after {max-width:178px; width:100%;height:0;padding: 0 0 62.359550561797754% 0;}
+.jamb_chemistry_2022_paper_sol_2 {max-width:215px; max-height:142px; }
+.jamb_chemistry_2022_paper_sol_2::after {content: '\00a0';display: inline-block; width:215px; height:142px; background-position: 50% 0.8771929824561403%; background-size: 100.93023255813954% 180.28169014084506%; background-image: url(jambchemistry2022_0.png);padding: 0; }
+div.jamb_chemistry_2022_paper_sol_2::after {max-width:215px; width:100%;height:0;padding: 0 0 66.04651162790698% 0;}
+
+
+/* $TexturePacker:SmartUpdate:e3700c99a6bb709fa3cad306f70e14d7:71def8b7655dabc8c8d4ebd978b35f0d:75b16fe0e70935f321ba28f5369ebb23$ */

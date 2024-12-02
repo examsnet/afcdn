@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_accounts_principles_of_accounts_2018_paper_q_1 {max-width:400px; max-height:312px; }
+.jamb_accounts_principles_of_accounts_2018_paper_q_1::after {content: '\00a0';display: inline-block; width:400px; height:312px; background-position: 50% 0.18691588785046728%; background-size: 100.5% 271.47435897435895%; background-image: url(jambaccounts2018_0.png);padding: 0; }
+div.jamb_accounts_principles_of_accounts_2018_paper_q_1::after {max-width:400px; width:100%;height:0;padding: 0 0 78% 0;}
+.jamb_accounts_principles_of_accounts_2018_paper_sol_1 {max-width:400px; max-height:140px; }
+.jamb_accounts_principles_of_accounts_2018_paper_sol_1::after {content: '\00a0';display: inline-block; width:400px; height:140px; background-position: 50% 66.9024045261669%; background-size: 100.5% 605%; background-image: url(jambaccounts2018_0.png);padding: 0; }
+div.jamb_accounts_principles_of_accounts_2018_paper_sol_1::after {max-width:400px; width:100%;height:0;padding: 0 0 35% 0;}
+.jamb_accounts_principles_of_accounts_2018_paper_sol_10 {max-width:400px; max-height:114px; }
+.jamb_accounts_principles_of_accounts_2018_paper_sol_10::after {content: '\00a0';display: inline-block; width:400px; height:114px; background-position: 50% 99.86357435197817%; background-size: 100.5% 742.9824561403509%; background-image: url(jambaccounts2018_0.png);padding: 0; }
+div.jamb_accounts_principles_of_accounts_2018_paper_sol_10::after {max-width:400px; width:100%;height:0;padding: 0 0 28.5% 0;}
+.jamb_accounts_principles_of_accounts_2018_paper_sol_45 {max-width:400px; max-height:117px; }
+.jamb_accounts_principles_of_accounts_2018_paper_sol_45::after {content: '\00a0';display: inline-block; width:400px; height:117px; background-position: 50% 84.10958904109589%; background-size: 100.5% 723.9316239316239%; background-image: url(jambaccounts2018_0.png);padding: 0; }
+div.jamb_accounts_principles_of_accounts_2018_paper_sol_45::after {max-width:400px; width:100%;height:0;padding: 0 0 29.25% 0;}
+.jamb_accounts_principles_of_accounts_2018_paper_sol_47 {max-width:400px; max-height:158px; }
+.jamb_accounts_principles_of_accounts_2018_paper_sol_47::after {content: '\00a0';display: inline-block; width:400px; height:158px; background-position: 50% 45.573294629898406%; background-size: 100.5% 536.0759493670886%; background-image: url(jambaccounts2018_0.png);padding: 0; }
+div.jamb_accounts_principles_of_accounts_2018_paper_sol_47::after {max-width:400px; width:100%;height:0;padding: 0 0 39.5% 0;}
+
+@keyframes jamb_accounts_principles_of_accounts_2018_paper_sol-frames {
+    0% { background-position: 50% 66.9024045261669%;  }
+    25% { background-position: 50% 99.86357435197817%;  }
+    50% { background-position: 50% 84.10958904109589%;  }
+    75% { background-position: 50% 45.573294629898406%;  }
+}
+
+.jamb_accounts_principles_of_accounts_2018_paper_sol-animation {
+    max-width: 400px;
+    max-height: 140px;
+}
+.jamb_accounts_principles_of_accounts_2018_paper_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 140px;
+    padding: 0;
+    background-image: url(jambaccounts2018_0.png);
+    background-size: 100.5% 605%; 
+    animation-name: jamb_accounts_principles_of_accounts_2018_paper_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_accounts_principles_of_accounts_2018_paper_sol-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 35% 0;
+}
+
+/* $TexturePacker:SmartUpdate:978e9c3ee4e39c0afbf461a89bc1c81c:4688cd99913aab03f3b3df4e799360aa:ee39d1ea902cf2299608a448bf7022a8$ */

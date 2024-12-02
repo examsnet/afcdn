@@ -1,0 +1,84 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_chemistry_2017_paper_q_30 {max-width:400px; max-height:241px; }
+.jamb_chemistry_2017_paper_q_30::after {content: '\00a0';display: inline-block; width:400px; height:241px; background-position: 99.62962962962963% 0.3787878787878788%; background-size: 167.5% 209.5435684647303%; background-image: url(jambchemistry2017_0.png);padding: 0; }
+div.jamb_chemistry_2017_paper_q_30::after {max-width:400px; width:100%;height:0;padding: 0 0 60.25% 0;}
+.jamb_chemistry_2017_paper_q_31 {max-width:400px; max-height:241px; }
+.jamb_chemistry_2017_paper_q_31::after {content: '\00a0';display: inline-block; width:400px; height:241px; background-position: 99.62962962962963% 0.3787878787878788%; background-size: 167.5% 209.5435684647303%; background-image: url(jambchemistry2017_0.png);padding: 0; }
+div.jamb_chemistry_2017_paper_q_31::after {max-width:400px; width:100%;height:0;padding: 0 0 60.25% 0;}
+.jamb_chemistry_2017_paper_q_33 {max-width:300px; max-height:220px; }
+.jamb_chemistry_2017_paper_q_33::after {content: '\00a0';display: inline-block; width:300px; height:220px; background-position: 72.70270270270271% 85.26315789473684%; background-size: 223.33333333333334% 229.54545454545453%; background-image: url(jambchemistry2017_0.png);padding: 0; }
+div.jamb_chemistry_2017_paper_q_33::after {max-width:300px; width:100%;height:0;padding: 0 0 73.33333333333333% 0;}
+.jamb_chemistry_2017_paper_sol_3 {max-width:210px; max-height:202px; }
+.jamb_chemistry_2017_paper_sol_3::after {content: '\00a0';display: inline-block; width:210px; height:202px; background-position: 0.21739130434782608% 99.66996699669967%; background-size: 319.04761904761904% 250%; background-image: url(jambchemistry2017_0.png);padding: 0; }
+div.jamb_chemistry_2017_paper_sol_3::after {max-width:210px; width:100%;height:0;padding: 0 0 96.19047619047619% 0;}
+.jamb_chemistry_2017_paper_sol_39 {max-width:267px; max-height:300px; }
+.jamb_chemistry_2017_paper_sol_39::after {content: '\00a0';display: inline-block; width:267px; height:300px; background-position: 0.24813895781637718% 0.4878048780487805%; background-size: 250.93632958801498% 168.33333333333334%; background-image: url(jambchemistry2017_0.png);padding: 0; }
+div.jamb_chemistry_2017_paper_sol_39::after {max-width:267px; width:100%;height:0;padding: 0 0 112.35955056179775% 0;}
+
+@keyframes jamb_chemistry_2017_paper_q-frames {
+    0% { background-position: 99.62962962962963% 0.3787878787878788%;  }
+    33.33333333333333% { background-position: 99.62962962962963% 0.3787878787878788%;  }
+    66.66666666666666% { background-position: 72.70270270270271% 85.26315789473684%;  }
+}
+
+.jamb_chemistry_2017_paper_q-animation {
+    max-width: 400px;
+    max-height: 241px;
+}
+.jamb_chemistry_2017_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 241px;
+    padding: 0;
+    background-image: url(jambchemistry2017_0.png);
+    background-size: 167.5% 209.5435684647303%; 
+    animation-name: jamb_chemistry_2017_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_chemistry_2017_paper_q-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 60.25% 0;
+}
+
+@keyframes jamb_chemistry_2017_paper_sol-frames {
+    0% { background-position: 0.21739130434782608% 99.66996699669967%;  }
+    50% { background-position: 0.24813895781637718% 0.4878048780487805%;  }
+}
+
+.jamb_chemistry_2017_paper_sol-animation {
+    max-width: 210px;
+    max-height: 202px;
+}
+.jamb_chemistry_2017_paper_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 210px;
+    height: 202px;
+    padding: 0;
+    background-image: url(jambchemistry2017_0.png);
+    background-size: 319.04761904761904% 250%; 
+    animation-name: jamb_chemistry_2017_paper_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_chemistry_2017_paper_sol-animation::after {
+    max-width: 210px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 96.19047619047619% 0;
+}
+
+/* $TexturePacker:SmartUpdate:667a8135c0b9fbc1b99b8812313670ee:750410b4145173311a3bec4ef27a1902:5c8a152716845737d1c92ac8d0b0f3a5$ */

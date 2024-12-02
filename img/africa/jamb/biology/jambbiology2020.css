@@ -1,0 +1,65 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_biology_2020_paper_q_16 {max-width:400px; max-height:319px; }
+.jamb_biology_2020_paper_q_16::after {content: '\00a0';display: inline-block; width:400px; height:319px; background-position: 50% 0.17064846416382254%; background-size: 100.5% 283.69905956112854%; background-image: url(jambbiology2020_0.png);padding: 0; }
+div.jamb_biology_2020_paper_q_16::after {max-width:400px; width:100%;height:0;padding: 0 0 79.75% 0;}
+.jamb_biology_2020_paper_q_17 {max-width:400px; max-height:319px; }
+.jamb_biology_2020_paper_q_17::after {content: '\00a0';display: inline-block; width:400px; height:319px; background-position: 50% 0.17064846416382254%; background-size: 100.5% 283.69905956112854%; background-image: url(jambbiology2020_0.png);padding: 0; }
+div.jamb_biology_2020_paper_q_17::after {max-width:400px; width:100%;height:0;padding: 0 0 79.75% 0;}
+.jamb_biology_2020_paper_q_30 {max-width:400px; max-height:198px; }
+.jamb_biology_2020_paper_q_30::after {content: '\00a0';display: inline-block; width:400px; height:198px; background-position: 50% 81.04667609618105%; background-size: 100.5% 457.07070707070704%; background-image: url(jambbiology2020_0.png);padding: 0; }
+div.jamb_biology_2020_paper_q_30::after {max-width:400px; width:100%;height:0;padding: 0 0 49.5% 0;}
+.jamb_biology_2020_paper_q_33 {max-width:400px; max-height:132px; }
+.jamb_biology_2020_paper_q_33::after {content: '\00a0';display: inline-block; width:400px; height:132px; background-position: 50% 99.87063389391979%; background-size: 100.5% 685.6060606060606%; background-image: url(jambbiology2020_0.png);padding: 0; }
+div.jamb_biology_2020_paper_q_33::after {max-width:400px; width:100%;height:0;padding: 0 0 33% 0;}
+.jamb_biology_2020_paper_q_34 {max-width:400px; max-height:132px; }
+.jamb_biology_2020_paper_q_34::after {content: '\00a0';display: inline-block; width:400px; height:132px; background-position: 50% 99.87063389391979%; background-size: 100.5% 685.6060606060606%; background-image: url(jambbiology2020_0.png);padding: 0; }
+div.jamb_biology_2020_paper_q_34::after {max-width:400px; width:100%;height:0;padding: 0 0 33% 0;}
+.jamb_biology_2020_paper_q_39 {max-width:400px; max-height:251px; }
+.jamb_biology_2020_paper_q_39::after {content: '\00a0';display: inline-block; width:400px; height:251px; background-position: 50% 49.08256880733945%; background-size: 100.5% 360.55776892430276%; background-image: url(jambbiology2020_0.png);padding: 0; }
+div.jamb_biology_2020_paper_q_39::after {max-width:400px; width:100%;height:0;padding: 0 0 62.75% 0;}
+.jamb_biology_2020_paper_q_40 {max-width:400px; max-height:251px; }
+.jamb_biology_2020_paper_q_40::after {content: '\00a0';display: inline-block; width:400px; height:251px; background-position: 50% 49.08256880733945%; background-size: 100.5% 360.55776892430276%; background-image: url(jambbiology2020_0.png);padding: 0; }
+div.jamb_biology_2020_paper_q_40::after {max-width:400px; width:100%;height:0;padding: 0 0 62.75% 0;}
+
+@keyframes jamb_biology_2020_paper_q-frames {
+    0% { background-position: 50% 0.17064846416382254%;  }
+    14.285714285714285% { background-position: 50% 0.17064846416382254%;  }
+    28.57142857142857% { background-position: 50% 81.04667609618105%;  }
+    42.857142857142854% { background-position: 50% 99.87063389391979%;  }
+    57.14285714285714% { background-position: 50% 99.87063389391979%;  }
+    71.42857142857143% { background-position: 50% 49.08256880733945%;  }
+    85.71428571428571% { background-position: 50% 49.08256880733945%;  }
+}
+
+.jamb_biology_2020_paper_q-animation {
+    max-width: 400px;
+    max-height: 319px;
+}
+.jamb_biology_2020_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 400px;
+    height: 319px;
+    padding: 0;
+    background-image: url(jambbiology2020_0.png);
+    background-size: 100.5% 283.69905956112854%; 
+    animation-name: jamb_biology_2020_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_biology_2020_paper_q-animation::after {
+    max-width: 400px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 79.75% 0;
+}
+
+/* $TexturePacker:SmartUpdate:38a9f712c5c1d0abaad189e0d3fa8fd0:7aa56758a84d547bfa3f73408e20736e:3d7c4b38e52cf7261f4b3139b3624b1e$ */

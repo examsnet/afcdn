@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_computer_studies_2023_5 {max-width:391px; max-height:145px; }
+.jamb_computer_studies_2023_5::after {content: '\00a0';display: inline-block; width:391px; height:145px; background-position: 50% 50%; background-size: 100.51150895140665% 101.37931034482759%; background-image: url(jambcomputer2023_0.png);padding: 0; }
+div.jamb_computer_studies_2023_5::after {max-width:391px; width:100%;height:0;padding: 0 0 37.084398976982094% 0;}
+
+
+/* $TexturePacker:SmartUpdate:0f4c09181d20bbc6a20bb763d68ae027:7cb67ee9d66ba4f4fdb2f7f21437e845:b63cb057f830844affa0780307bd302b$ */

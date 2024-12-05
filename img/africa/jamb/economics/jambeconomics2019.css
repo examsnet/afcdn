@@ -1,0 +1,64 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_economics_2019_paper_q_59 {max-width:279px; max-height:201px; }
+.jamb_economics_2019_paper_q_59::after {content: '\00a0';display: inline-block; width:279px; height:201px; background-position: 89.47368421052632% 0.43478260869565216%; background-size: 386.02150537634407% 214.4278606965174%; background-image: url(jambeconomics2019_0.png);padding: 0; }
+div.jamb_economics_2019_paper_q_59::after {max-width:279px; width:100%;height:0;padding: 0 0 72.04301075268818% 0;}
+.jamb_economics_2019_paper_sol_19 {max-width:268px; max-height:179px; }
+.jamb_economics_2019_paper_sol_19::after {content: '\00a0';display: inline-block; width:268px; height:179px; background-position: 34.2398022249691% 96.82539682539682%; background-size: 401.86567164179104% 240.78212290502793%; background-image: url(jambeconomics2019_0.png);padding: 0; }
+div.jamb_economics_2019_paper_sol_19::after {max-width:268px; width:100%;height:0;padding: 0 0 66.7910447761194% 0;}
+.jamb_economics_2019_paper_sol_48 {max-width:400px; max-height:242px; }
+.jamb_economics_2019_paper_sol_48::after {content: '\00a0';display: inline-block; width:400px; height:242px; background-position: 0.14771048744460857% 0.5291005291005291%; background-size: 269.25% 178.099173553719%; background-image: url(jambeconomics2019_0.png);padding: 0; }
+div.jamb_economics_2019_paper_sol_48::after {max-width:400px; width:100%;height:0;padding: 0 0 60.5% 0;}
+.jamb_economics_2019_paper_sol_5 {max-width:281px; max-height:215px; }
+.jamb_economics_2019_paper_sol_5::after {content: '\00a0';display: inline-block; width:281px; height:215px; background-position: 68.5929648241206% 95.83333333333333%; background-size: 383.2740213523132% 200.46511627906978%; background-image: url(jambeconomics2019_0.png);padding: 0; }
+div.jamb_economics_2019_paper_sol_5::after {max-width:281px; width:100%;height:0;padding: 0 0 76.51245551601423% 0;}
+.jamb_economics_2019_paper_sol_58 {max-width:275px; max-height:186px; }
+.jamb_economics_2019_paper_sol_58::after {content: '\00a0';display: inline-block; width:275px; height:186px; background-position: 0.12468827930174564% 99.59183673469387%; background-size: 391.6363636363636% 231.72043010752688%; background-image: url(jambeconomics2019_0.png);padding: 0; }
+div.jamb_economics_2019_paper_sol_58::after {max-width:275px; width:100%;height:0;padding: 0 0 67.63636363636364% 0;}
+.jamb_economics_2019_paper_sol_63 {max-width:248px; max-height:173px; }
+.jamb_economics_2019_paper_sol_63::after {content: '\00a0';display: inline-block; width:248px; height:173px; background-position: 99.87937273823884% 78.68217054263566%; background-size: 434.2741935483871% 249.13294797687863%; background-image: url(jambeconomics2019_0.png);padding: 0; }
+div.jamb_economics_2019_paper_sol_63::after {max-width:248px; width:100%;height:0;padding: 0 0 69.75806451612904% 0;}
+.jamb_economics_2019_paper_sol_8 {max-width:311px; max-height:205px; }
+.jamb_economics_2019_paper_sol_8::after {content: '\00a0';display: inline-block; width:311px; height:205px; background-position: 52.48041775456919% 0.4424778761061947%; background-size: 346.3022508038585% 210.2439024390244%; background-image: url(jambeconomics2019_0.png);padding: 0; }
+div.jamb_economics_2019_paper_sol_8::after {max-width:311px; width:100%;height:0;padding: 0 0 65.91639871382637% 0;}
+
+@keyframes jamb_economics_2019_paper_sol-frames {
+    0% { background-position: 68.5929648241206% 95.83333333333333%;  }
+    16.666666666666664% { background-position: 52.48041775456919% 0.4424778761061947%;  }
+    33.33333333333333% { background-position: 34.2398022249691% 96.82539682539682%;  }
+    50% { background-position: 0.14771048744460857% 0.5291005291005291%;  }
+    66.66666666666666% { background-position: 0.12468827930174564% 99.59183673469387%;  }
+    83.33333333333334% { background-position: 99.87937273823884% 78.68217054263566%;  }
+}
+
+.jamb_economics_2019_paper_sol-animation {
+    max-width: 281px;
+    max-height: 215px;
+}
+.jamb_economics_2019_paper_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 281px;
+    height: 215px;
+    padding: 0;
+    background-image: url(jambeconomics2019_0.png);
+    background-size: 383.2740213523132% 200.46511627906978%; 
+    animation-name: jamb_economics_2019_paper_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_economics_2019_paper_sol-animation::after {
+    max-width: 281px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 76.51245551601423% 0;
+}
+
+/* $TexturePacker:SmartUpdate:0e2fd0065869fd8abe79103341082318:f624a6f9ab1b83bea63a4bec5ee0a22e:5260b205a997123db4431be03ae19744$ */

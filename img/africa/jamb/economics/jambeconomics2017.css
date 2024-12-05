@@ -1,0 +1,49 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.jamb_economics_2017_paper_q_34 {max-width:246px; max-height:209px; }
+.jamb_economics_2017_paper_q_34::after {content: '\00a0';display: inline-block; width:246px; height:209px; background-position: 50% 2.127659574468085%; background-size: 345.5284552845528% 122.48803827751196%; background-image: url(jambeconomics2017_0.png);padding: 0; }
+div.jamb_economics_2017_paper_q_34::after {max-width:246px; width:100%;height:0;padding: 0 0 84.95934959349593% 0;}
+.jamb_economics_2017_paper_q_38 {max-width:300px; max-height:112px; }
+.jamb_economics_2017_paper_q_38::after {content: '\00a0';display: inline-block; width:300px; height:112px; background-position: 99.81818181818181% 0.6944444444444444%; background-size: 283.3333333333333% 228.57142857142858%; background-image: url(jambeconomics2017_0.png);padding: 0; }
+div.jamb_economics_2017_paper_q_38::after {max-width:300px; width:100%;height:0;padding: 0 0 37.333333333333336% 0;}
+.jamb_economics_2017_paper_q_9 {max-width:300px; max-height:254px; }
+.jamb_economics_2017_paper_q_9::after {content: '\00a0';display: inline-block; width:300px; height:254px; background-position: 0.18181818181818182% 50%; background-size: 283.3333333333333% 100.78740157480316%; background-image: url(jambeconomics2017_0.png);padding: 0; }
+div.jamb_economics_2017_paper_q_9::after {max-width:300px; width:100%;height:0;padding: 0 0 84.66666666666667% 0;}
+
+@keyframes jamb_economics_2017_paper_q-frames {
+    0% { background-position: 0.18181818181818182% 50%;  }
+    33.33333333333333% { background-position: 50% 2.127659574468085%;  }
+    66.66666666666666% { background-position: 99.81818181818181% 0.6944444444444444%;  }
+}
+
+.jamb_economics_2017_paper_q-animation {
+    max-width: 300px;
+    max-height: 254px;
+}
+.jamb_economics_2017_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 300px;
+    height: 254px;
+    padding: 0;
+    background-image: url(jambeconomics2017_0.png);
+    background-size: 283.3333333333333% 100.78740157480316%; 
+    animation-name: jamb_economics_2017_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.jamb_economics_2017_paper_q-animation::after {
+    max-width: 300px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 84.66666666666667% 0;
+}
+
+/* $TexturePacker:SmartUpdate:083df04e1ad60f8daa61bdb534c45547:3646e8c65b1c592ae4aaa9b00c9a6620:3267e23c589630087aea719d257aadd2$ */

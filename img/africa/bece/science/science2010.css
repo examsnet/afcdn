@@ -1,0 +1,57 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Sci_2010_22 {max-width:119px; max-height:95px; }
+.BECE_Sci_2010_22::after {content: '\00a0';display: inline-block; width:119px; height:95px; background-position: 0.819672131147541% 99.13606911447084%; background-size: 202.52100840336135% 587.3684210526316%; background-image: url(science2010_0.png);padding: 0; }
+div.BECE_Sci_2010_22::after {max-width:119px; width:100%;height:0;padding: 0 0 79.83193277310924% 0;}
+.BECE_Sci_2010_23 {max-width:116px; max-height:98px; }
+.BECE_Sci_2010_23::after {content: '\00a0';display: inline-block; width:116px; height:98px; background-position: 96.8% 99.78260869565217%; background-size: 207.75862068965517% 569.3877551020408%; background-image: url(science2010_0.png);padding: 0; }
+div.BECE_Sci_2010_23::after {max-width:116px; width:100%;height:0;padding: 0 0 84.48275862068965% 0;}
+.BECE_Sci_2010_39_a {max-width:215px; max-height:114px; }
+.BECE_Sci_2010_39_a::after {content: '\00a0';display: inline-block; width:215px; height:114px; background-position: 3.8461538461538463% 77.47747747747748%; background-size: 112.09302325581395% 489.4736842105263%; background-image: url(science2010_0.png);padding: 0; }
+div.BECE_Sci_2010_39_a::after {max-width:215px; width:100%;height:0;padding: 0 0 53.02325581395349% 0;}
+.BECE_Sci_2010_39_b {max-width:239px; max-height:125px; }
+.BECE_Sci_2010_39_b::after {content: '\00a0';display: inline-block; width:239px; height:125px; background-position: 50% 0.23094688221709006%; background-size: 100.83682008368201% 446.4%; background-image: url(science2010_0.png);padding: 0; }
+div.BECE_Sci_2010_39_b::after {max-width:239px; width:100%;height:0;padding: 0 0 52.30125523012552% 0;}
+.BECE_Sci_2010_39_c {max-width:224px; max-height:117px; }
+.BECE_Sci_2010_39_c::after {content: '\00a0';display: inline-block; width:224px; height:117px; background-position: 5.882352941176471% 51.24716553287982%; background-size: 107.58928571428571% 476.9230769230769%; background-image: url(science2010_0.png);padding: 0; }
+div.BECE_Sci_2010_39_c::after {max-width:224px; width:100%;height:0;padding: 0 0 52.232142857142854% 0;}
+.BECE_Sci_2010_39_d {max-width:236px; max-height:98px; }
+.BECE_Sci_2010_39_d::after {content: '\00a0';display: inline-block; width:236px; height:98px; background-position: 20% 27.608695652173914%; background-size: 102.11864406779661% 569.3877551020408%; background-image: url(science2010_0.png);padding: 0; }
+div.BECE_Sci_2010_39_d::after {max-width:236px; width:100%;height:0;padding: 0 0 41.52542372881356% 0;}
+
+@keyframes BECE_Sci_2010-frames {
+    0% { background-position: 0.819672131147541% 99.13606911447084%;  }
+    50% { background-position: 96.8% 99.78260869565217%;  }
+}
+
+.BECE_Sci_2010-animation {
+    max-width: 119px;
+    max-height: 95px;
+}
+.BECE_Sci_2010-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 119px;
+    height: 95px;
+    padding: 0;
+    background-image: url(science2010_0.png);
+    background-size: 202.52100840336135% 587.3684210526316%; 
+    animation-name: BECE_Sci_2010-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Sci_2010-animation::after {
+    max-width: 119px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 79.83193277310924% 0;
+}
+
+/* $TexturePacker:SmartUpdate:4e27cc5331f6db844059a1637b3f22b1:5986366b8d466eaf6fcfea71dc8facee:40097c9089f57255a34e0b86d13b1821$ */

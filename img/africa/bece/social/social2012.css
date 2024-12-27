@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Soc_2012_9 {max-width:128px; max-height:72px; }
+.BECE_Soc_2012_9::after {content: '\00a0';display: inline-block; width:128px; height:72px; background-position: 50% 50%; background-size: 101.5625% 102.77777777777777%; background-image: url(social2012_0.png);padding: 0; }
+div.BECE_Soc_2012_9::after {max-width:128px; width:100%;height:0;padding: 0 0 56.25% 0;}
+
+
+/* $TexturePacker:SmartUpdate:694161e7f6671e52cdc053155e953796:0f104f9ea41435478a6401ad0eaaeb70:cf08665bfbfd60aa457911a119dcb1c3$ */

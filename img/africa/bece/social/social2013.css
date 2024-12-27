@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Social_2013_15 {max-width:303px; max-height:136px; }
+.BECE_Social_2013_15::after {content: '\00a0';display: inline-block; width:303px; height:136px; background-position: 50% 1.9230769230769231%; background-size: 100.66006600660066% 138.23529411764707%; background-image: url(social2013_0.png);padding: 0; }
+div.BECE_Social_2013_15::after {max-width:303px; width:100%;height:0;padding: 0 0 44.884488448844884% 0;}
+.BECE_Social_2013_18 {max-width:263px; max-height:49px; }
+.BECE_Social_2013_18::after {content: '\00a0';display: inline-block; width:263px; height:49px; background-position: 2.380952380952381% 99.28057553956835%; background-size: 115.96958174904942% 383.6734693877551%; background-image: url(social2013_0.png);padding: 0; }
+div.BECE_Social_2013_18::after {max-width:263px; width:100%;height:0;padding: 0 0 18.631178707224336% 0;}
+
+@keyframes BECE_Social_2013-frames {
+    0% { background-position: 50% 1.9230769230769231%;  }
+    50% { background-position: 2.380952380952381% 99.28057553956835%;  }
+}
+
+.BECE_Social_2013-animation {
+    max-width: 303px;
+    max-height: 136px;
+}
+.BECE_Social_2013-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 303px;
+    height: 136px;
+    padding: 0;
+    background-image: url(social2013_0.png);
+    background-size: 100.66006600660066% 138.23529411764707%; 
+    animation-name: BECE_Social_2013-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Social_2013-animation::after {
+    max-width: 303px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 44.884488448844884% 0;
+}
+
+/* $TexturePacker:SmartUpdate:bc8b1f6551570c22c39a0e8230be6f6b:c5b8c0131b7e100c6e045a2905a2cfff:141f3cd9410117f48fff8eabe42a7ee1$ */

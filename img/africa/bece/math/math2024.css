@@ -1,0 +1,61 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Mat_2024_12 {max-width:354px; max-height:180px; }
+.BECE_Mat_2024_12::after {content: '\00a0';display: inline-block; width:354px; height:180px; background-position: 74.32432432432432% 0.40816326530612246%; background-size: 350.8474576271187% 236.11111111111111%; background-image: url(math2024_0.png);padding: 0; }
+div.BECE_Mat_2024_12::after {max-width:354px; width:100%;height:0;padding: 0 0 50.847457627118644% 0;}
+.BECE_Mat_2024_14 {max-width:328px; max-height:423px; }
+.BECE_Mat_2024_14::after {content: '\00a0';display: inline-block; width:328px; height:423px; background-position: 0.10940919037199125% 50%; background-size: 378.6585365853659% 100.47281323877068%; background-image: url(math2024_0.png);padding: 0; }
+div.BECE_Mat_2024_14::after {max-width:328px; width:100%;height:0;padding: 0 0 128.96341463414635% 0;}
+.BECE_Mat_2024_15 {max-width:329px; max-height:420px; }
+.BECE_Mat_2024_15::after {content: '\00a0';display: inline-block; width:329px; height:420px; background-position: 36.144578313253014% 20%; background-size: 377.50759878419456% 101.19047619047619%; background-image: url(math2024_0.png);padding: 0; }
+div.BECE_Mat_2024_15::after {max-width:329px; width:100%;height:0;padding: 0 0 127.65957446808511% 0;}
+.BECE_Mat_2024_31 {max-width:226px; max-height:153px; }
+.BECE_Mat_2024_31::after {content: '\00a0';display: inline-block; width:226px; height:153px; background-position: 99.9015748031496% 0.36764705882352944%; background-size: 549.5575221238938% 277.77777777777777%; background-image: url(math2024_0.png);padding: 0; }
+div.BECE_Mat_2024_31::after {max-width:226px; width:100%;height:0;padding: 0 0 67.69911504424779% 0;}
+.BECE_Mat_2024_4 {max-width:293px; max-height:205px; }
+.BECE_Mat_2024_4::after {content: '\00a0';display: inline-block; width:293px; height:205px; background-position: 69.54689146469968% 82.72727272727273%; background-size: 423.89078498293514% 207.3170731707317%; background-image: url(math2024_0.png);padding: 0; }
+div.BECE_Mat_2024_4::after {max-width:293px; width:100%;height:0;padding: 0 0 69.96587030716724% 0;}
+.BECE_Mat_2024_5 {max-width:284px; max-height:209px; }
+.BECE_Mat_2024_5::after {content: '\00a0';display: inline-block; width:284px; height:209px; background-position: 99.58246346555323% 84.25925925925925%; background-size: 437.32394366197184% 203.34928229665073%; background-image: url(math2024_0.png);padding: 0; }
+div.BECE_Mat_2024_5::after {max-width:284px; width:100%;height:0;padding: 0 0 73.59154929577464% 0;}
+
+@keyframes BECE_Mat_2024-frames {
+    0% { background-position: 69.54689146469968% 82.72727272727273%;  }
+    16.666666666666664% { background-position: 99.58246346555323% 84.25925925925925%;  }
+    33.33333333333333% { background-position: 74.32432432432432% 0.40816326530612246%;  }
+    50% { background-position: 0.10940919037199125% 50%;  }
+    66.66666666666666% { background-position: 36.144578313253014% 20%;  }
+    83.33333333333334% { background-position: 99.9015748031496% 0.36764705882352944%;  }
+}
+
+.BECE_Mat_2024-animation {
+    max-width: 293px;
+    max-height: 205px;
+}
+.BECE_Mat_2024-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 293px;
+    height: 205px;
+    padding: 0;
+    background-image: url(math2024_0.png);
+    background-size: 423.89078498293514% 207.3170731707317%; 
+    animation-name: BECE_Mat_2024-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Mat_2024-animation::after {
+    max-width: 293px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 69.96587030716724% 0;
+}
+
+/* $TexturePacker:SmartUpdate:7255fb02594781745aef547c217998b9:b9c0808003b03f0f7b5e85a02f5b24de:7fe8c96eb3ad73f6515d03647c41c6a8$ */

@@ -1,0 +1,63 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Mat_2013_15 {max-width:287px; max-height:240px; }
+.BECE_Mat_2013_15::after {content: '\00a0';display: inline-block; width:287px; height:240px; background-position: 0.43103448275862066% 0.37593984962406013%; background-size: 180.83623693379792% 210.83333333333334%; background-image: url(math2013_0.png);padding: 0; }
+div.BECE_Mat_2013_15::after {max-width:287px; width:100%;height:0;padding: 0 0 83.62369337979094% 0;}
+.BECE_Mat_2013_16 {max-width:189px; max-height:152px; }
+.BECE_Mat_2013_16::after {content: '\00a0';display: inline-block; width:189px; height:152px; background-position: 87.57575757575758% 43.220338983050844%; background-size: 274.6031746031746% 332.89473684210526%; background-image: url(math2013_0.png);padding: 0; }
+div.BECE_Mat_2013_16::after {max-width:189px; width:100%;height:0;padding: 0 0 80.42328042328042% 0;}
+.BECE_Mat_2013_21_Sol {max-width:103px; max-height:121px; }
+.BECE_Mat_2013_21_Sol::after {content: '\00a0';display: inline-block; width:103px; height:121px; background-position: 99.75961538461539% 79.48051948051948%; background-size: 503.88349514563106% 418.1818181818182%; background-image: url(math2013_0.png);padding: 0; }
+div.BECE_Mat_2013_21_Sol::after {max-width:103px; width:100%;height:0;padding: 0 0 117.47572815533981% 0;}
+.BECE_Mat_2013_27 {max-width:198px; max-height:57px; }
+.BECE_Mat_2013_27::after {content: '\00a0';display: inline-block; width:198px; height:57px; background-position: 90.03115264797508% 0.22271714922049%; background-size: 262.1212121212121% 887.719298245614%; background-image: url(math2013_0.png);padding: 0; }
+div.BECE_Mat_2013_27::after {max-width:198px; width:100%;height:0;padding: 0 0 28.78787878787879% 0;}
+.BECE_Mat_2013_32 {max-width:190px; max-height:93px; }
+.BECE_Mat_2013_32::after {content: '\00a0';display: inline-block; width:190px; height:93px; background-position: 87.8419452887538% 14.285714285714286%; background-size: 273.1578947368421% 544.0860215053764%; background-image: url(math2013_0.png);padding: 0; }
+div.BECE_Mat_2013_32::after {max-width:190px; width:100%;height:0;padding: 0 0 48.94736842105263% 0;}
+.BECE_Mat_2013_35_Sol {max-width:135px; max-height:199px; }
+.BECE_Mat_2013_35_Sol::after {content: '\00a0';display: inline-block; width:135px; height:199px; background-position: 72.65625% 99.6742671009772%; background-size: 384.44444444444446% 254.2713567839196%; background-image: url(math2013_0.png);padding: 0; }
+div.BECE_Mat_2013_35_Sol::after {max-width:135px; width:100%;height:0;padding: 0 0 147.40740740740742% 0;}
+.BECE_Mat_2013_37 {max-width:277px; max-height:256px; }
+.BECE_Mat_2013_37::after {content: '\00a0';display: inline-block; width:277px; height:256px; background-position: 0.4132231404958678% 96.8%; background-size: 187.36462093862815% 197.65625%; background-image: url(math2013_0.png);padding: 0; }
+div.BECE_Mat_2013_37::after {max-width:277px; width:100%;height:0;padding: 0 0 92.4187725631769% 0;}
+
+@keyframes BECE_Mat_2013-frames {
+    0% { background-position: 0.43103448275862066% 0.37593984962406013%;  }
+    20% { background-position: 87.57575757575758% 43.220338983050844%;  }
+    40% { background-position: 90.03115264797508% 0.22271714922049%;  }
+    60% { background-position: 87.8419452887538% 14.285714285714286%;  }
+    80% { background-position: 0.4132231404958678% 96.8%;  }
+}
+
+.BECE_Mat_2013-animation {
+    max-width: 287px;
+    max-height: 240px;
+}
+.BECE_Mat_2013-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 287px;
+    height: 240px;
+    padding: 0;
+    background-image: url(math2013_0.png);
+    background-size: 180.83623693379792% 210.83333333333334%; 
+    animation-name: BECE_Mat_2013-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Mat_2013-animation::after {
+    max-width: 287px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 83.62369337979094% 0;
+}
+
+/* $TexturePacker:SmartUpdate:3f6a1f6e07e87e8143b00bbe8152071c:0c269174b1d4c1abb84a00ab8a3352ee:102e8dfac99738582b7edd2efeb62576$ */

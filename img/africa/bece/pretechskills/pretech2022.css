@@ -1,0 +1,57 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Pre_Tech_2022_19 {max-width:92px; max-height:242px; }
+.BECE_Pre_Tech_2022_19::after {content: '\00a0';display: inline-block; width:92px; height:242px; background-position: 77.94117647058823% 76.06837606837607%; background-size: 543.4782608695652% 148.34710743801654%; background-image: url(pretech2022_0.png);padding: 0; }
+div.BECE_Pre_Tech_2022_19::after {max-width:92px; width:100%;height:0;padding: 0 0 263.04347826086956% 0;}
+.BECE_Pre_Tech_2022_20 {max-width:88px; max-height:239px; }
+.BECE_Pre_Tech_2022_20::after {content: '\00a0';display: inline-block; width:88px; height:239px; background-position: 99.75728155339806% 74.16666666666667%; background-size: 568.1818181818181% 150.2092050209205%; background-image: url(pretech2022_0.png);padding: 0; }
+div.BECE_Pre_Tech_2022_20::after {max-width:88px; width:100%;height:0;padding: 0 0 271.59090909090907% 0;}
+.BECE_Pre_Tech_2022_21 {max-width:312px; max-height:181px; }
+.BECE_Pre_Tech_2022_21::after {content: '\00a0';display: inline-block; width:312px; height:181px; background-position: 0.5319148936170213% 0.5617977528089888%; background-size: 160.25641025641025% 198.34254143646407%; background-image: url(pretech2022_0.png);padding: 0; }
+div.BECE_Pre_Tech_2022_21::after {max-width:312px; width:100%;height:0;padding: 0 0 58.01282051282051% 0;}
+.BECE_Pre_Tech_2022_22 {max-width:316px; max-height:175px; }
+.BECE_Pre_Tech_2022_22::after {content: '\00a0';display: inline-block; width:316px; height:175px; background-position: 0.5434782608695652% 99.45652173913044%; background-size: 158.22784810126583% 205.14285714285714%; background-image: url(pretech2022_0.png);padding: 0; }
+div.BECE_Pre_Tech_2022_22::after {max-width:316px; width:100%;height:0;padding: 0 0 55.379746835443036% 0;}
+.BECE_Pre_Tech_2022_28 {max-width:182px; max-height:87px; }
+.BECE_Pre_Tech_2022_28::after {content: '\00a0';display: inline-block; width:182px; height:87px; background-position: 98.74213836477988% 0.36764705882352944%; background-size: 274.72527472527474% 412.64367816091954%; background-image: url(pretech2022_0.png);padding: 0; }
+div.BECE_Pre_Tech_2022_28::after {max-width:182px; width:100%;height:0;padding: 0 0 47.8021978021978% 0;}
+
+@keyframes BECE_Pre_Tech_2022-frames {
+    0% { background-position: 77.94117647058823% 76.06837606837607%;  }
+    20% { background-position: 99.75728155339806% 74.16666666666667%;  }
+    40% { background-position: 0.5319148936170213% 0.5617977528089888%;  }
+    60% { background-position: 0.5434782608695652% 99.45652173913044%;  }
+    80% { background-position: 98.74213836477988% 0.36764705882352944%;  }
+}
+
+.BECE_Pre_Tech_2022-animation {
+    max-width: 92px;
+    max-height: 242px;
+}
+.BECE_Pre_Tech_2022-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 92px;
+    height: 242px;
+    padding: 0;
+    background-image: url(pretech2022_0.png);
+    background-size: 543.4782608695652% 148.34710743801654%; 
+    animation-name: BECE_Pre_Tech_2022-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Pre_Tech_2022-animation::after {
+    max-width: 92px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 263.04347826086956% 0;
+}
+
+/* $TexturePacker:SmartUpdate:95e437b33a079e7ec17e06141d0e3afb:bf67f7be414c220963cbfef6f14879b7:0b6c52c70b05ea24fcc1f7d2ca3179c8$ */

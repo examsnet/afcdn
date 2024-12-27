@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Mat_2019_20 {max-width:291px; max-height:162px; }
+.BECE_Mat_2019_20::after {content: '\00a0';display: inline-block; width:291px; height:162px; background-position: 0.18484288354898337% 99.65156794425087%; background-size: 285.9106529209622% 277.1604938271605%; background-image: url(math2019_0.png);padding: 0; }
+div.BECE_Mat_2019_20::after {max-width:291px; width:100%;height:0;padding: 0 0 55.670103092783506% 0;}
+.BECE_Mat_2019_26 {max-width:313px; max-height:186px; }
+.BECE_Mat_2019_26::after {content: '\00a0';display: inline-block; width:313px; height:186px; background-position: 81.69556840077071% 98.47908745247149%; background-size: 265.814696485623% 241.3978494623656%; background-image: url(math2019_0.png);padding: 0; }
+div.BECE_Mat_2019_26::after {max-width:313px; width:100%;height:0;padding: 0 0 59.424920127795524% 0;}
+.BECE_Mat_2019_39 {max-width:407px; max-height:257px; }
+.BECE_Mat_2019_39::after {content: '\00a0';display: inline-block; width:407px; height:257px; background-position: 99.76470588235294% 0.5208333333333334%; background-size: 204.42260442260442% 174.70817120622567%; background-image: url(math2019_0.png);padding: 0; }
+div.BECE_Mat_2019_39::after {max-width:407px; width:100%;height:0;padding: 0 0 63.14496314496314% 0;}
+.BECE_Mat_2019_40 {max-width:422px; max-height:284px; }
+.BECE_Mat_2019_40::after {content: '\00a0';display: inline-block; width:422px; height:284px; background-position: 0.24390243902439024% 0.6060606060606061%; background-size: 197.1563981042654% 158.09859154929578%; background-image: url(math2019_0.png);padding: 0; }
+div.BECE_Mat_2019_40::after {max-width:422px; width:100%;height:0;padding: 0 0 67.29857819905213% 0;}
+
+@keyframes BECE_Mat_2019-frames {
+    0% { background-position: 0.18484288354898337% 99.65156794425087%;  }
+    25% { background-position: 81.69556840077071% 98.47908745247149%;  }
+    50% { background-position: 99.76470588235294% 0.5208333333333334%;  }
+    75% { background-position: 0.24390243902439024% 0.6060606060606061%;  }
+}
+
+.BECE_Mat_2019-animation {
+    max-width: 291px;
+    max-height: 162px;
+}
+.BECE_Mat_2019-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 291px;
+    height: 162px;
+    padding: 0;
+    background-image: url(math2019_0.png);
+    background-size: 285.9106529209622% 277.1604938271605%; 
+    animation-name: BECE_Mat_2019-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Mat_2019-animation::after {
+    max-width: 291px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 55.670103092783506% 0;
+}
+
+/* $TexturePacker:SmartUpdate:b99f238492e1dd7579b63bee9d6d32f7:23d8767d5b0f8ecef47c30ef841b555a:456e20ee6c3659130737603a016ecc15$ */

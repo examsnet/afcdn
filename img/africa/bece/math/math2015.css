@@ -1,0 +1,60 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Mat_2015_17_Sol {max-width:84px; max-height:276px; }
+.BECE_Mat_2015_17_Sol::after {content: '\00a0';display: inline-block; width:84px; height:276px; background-position: 0.4975124378109453% 0.546448087431694%; background-size: 339.2857142857143% 166.30434782608697%; background-image: url(math2015_0.png);padding: 0; }
+div.BECE_Mat_2015_17_Sol::after {max-width:84px; width:100%;height:0;padding: 0 0 328.57142857142856% 0;}
+.BECE_Mat_2015_1_Sol {max-width:96px; max-height:140px; }
+.BECE_Mat_2015_1_Sol::after {content: '\00a0';display: inline-block; width:96px; height:140px; background-position: 99.47089947089947% 0.31347962382445144%; background-size: 296.875% 327.85714285714283%; background-image: url(math2015_0.png);padding: 0; }
+div.BECE_Mat_2015_1_Sol::after {max-width:96px; width:100%;height:0;padding: 0 0 145.83333333333334% 0;}
+.BECE_Mat_2015_34 {max-width:135px; max-height:139px; }
+.BECE_Mat_2015_34::after {content: '\00a0';display: inline-block; width:135px; height:139px; background-position: 0.6666666666666666% 86.875%; background-size: 211.11111111111111% 330.2158273381295%; background-image: url(math2015_0.png);padding: 0; }
+div.BECE_Mat_2015_34::after {max-width:135px; width:100%;height:0;padding: 0 0 102.96296296296296% 0;}
+.BECE_Mat_2015_5_Sol {max-width:101px; max-height:166px; }
+.BECE_Mat_2015_5_Sol::after {content: '\00a0';display: inline-block; width:101px; height:166px; background-position: 46.73913043478261% 0.3412969283276451%; background-size: 282.1782178217822% 276.50602409638554%; background-image: url(math2015_0.png);padding: 0; }
+div.BECE_Mat_2015_5_Sol::after {max-width:101px; width:100%;height:0;padding: 0 0 164.35643564356437% 0;}
+.BECE_Mat_2015_5_Sol_1 {max-width:77px; max-height:129px; }
+.BECE_Mat_2015_5_Sol_1::after {content: '\00a0';display: inline-block; width:77px; height:129px; background-position: 97.59615384615384% 99.6969696969697%; background-size: 370.12987012987014% 355.8139534883721%; background-image: url(math2015_0.png);padding: 0; }
+div.BECE_Mat_2015_5_Sol_1::after {max-width:77px; width:100%;height:0;padding: 0 0 167.53246753246754% 0;}
+.BECE_Mat_2015_5_Sol_2 {max-width:81px; max-height:186px; }
+.BECE_Mat_2015_5_Sol_2::after {content: '\00a0';display: inline-block; width:81px; height:186px; background-position: 99.50980392156863% 52.014652014652015%; background-size: 351.85185185185185% 246.7741935483871%; background-image: url(math2015_0.png);padding: 0; }
+div.BECE_Mat_2015_5_Sol_2::after {max-width:81px; width:100%;height:0;padding: 0 0 229.62962962962962% 0;}
+.BECE_Mat_2015_7_Sol {max-width:65px; max-height:236px; }
+.BECE_Mat_2015_7_Sol::after {content: '\00a0';display: inline-block; width:65px; height:236px; background-position: 62.27272727272727% 75.33632286995515%; background-size: 438.46153846153845% 194.4915254237288%; background-image: url(math2015_0.png);padding: 0; }
+div.BECE_Mat_2015_7_Sol::after {max-width:65px; width:100%;height:0;padding: 0 0 363.0769230769231% 0;}
+
+@keyframes BECE_Mat_2015_5_Sol-frames {
+    0% { background-position: 97.59615384615384% 99.6969696969697%;  }
+    50% { background-position: 99.50980392156863% 52.014652014652015%;  }
+}
+
+.BECE_Mat_2015_5_Sol-animation {
+    max-width: 77px;
+    max-height: 129px;
+}
+.BECE_Mat_2015_5_Sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 77px;
+    height: 129px;
+    padding: 0;
+    background-image: url(math2015_0.png);
+    background-size: 370.12987012987014% 355.8139534883721%; 
+    animation-name: BECE_Mat_2015_5_Sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Mat_2015_5_Sol-animation::after {
+    max-width: 77px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 167.53246753246754% 0;
+}
+
+/* $TexturePacker:SmartUpdate:4fbbe06b61b6d03ecaad4a6e9605799e:73a1b7a540e3760c6be3541a53395fbe:dceebb0215456f0cdff24df75d509b8c$ */

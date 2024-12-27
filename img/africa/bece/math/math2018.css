@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Mat_2018_16 {max-width:275px; max-height:194px; }
+.BECE_Mat_2018_16::after {content: '\00a0';display: inline-block; width:275px; height:194px; background-position: 0.1040582726326743% 50%; background-size: 449.45454545454544% 101.03092783505154%; background-image: url(math2018_0.png);padding: 0; }
+div.BECE_Mat_2018_16::after {max-width:275px; width:100%;height:0;padding: 0 0 70.54545454545455% 0;}
+.BECE_Mat_2018_17 {max-width:270px; max-height:190px; }
+.BECE_Mat_2018_17::after {content: '\00a0';display: inline-block; width:270px; height:190px; background-position: 28.67494824016563% 16.666666666666668%; background-size: 457.77777777777777% 103.15789473684211%; background-image: url(math2018_0.png);padding: 0; }
+div.BECE_Mat_2018_17::after {max-width:270px; width:100%;height:0;padding: 0 0 70.37037037037037% 0;}
+.BECE_Mat_2018_23 {max-width:201px; max-height:174px; }
+.BECE_Mat_2018_23::after {content: '\00a0';display: inline-block; width:201px; height:174px; background-position: 52.94685990338164% 4.545454545454546%; background-size: 614.9253731343283% 112.64367816091954%; background-image: url(math2018_0.png);padding: 0; }
+div.BECE_Mat_2018_23::after {max-width:201px; width:100%;height:0;padding: 0 0 86.56716417910448% 0;}
+.BECE_Mat_2018_40 {max-width:256px; max-height:173px; }
+.BECE_Mat_2018_40::after {content: '\00a0';display: inline-block; width:256px; height:173px; background-position: 76.53061224489795% 4.3478260869565215%; background-size: 482.8125% 113.29479768786128%; background-image: url(math2018_0.png);padding: 0; }
+div.BECE_Mat_2018_40::after {max-width:256px; width:100%;height:0;padding: 0 0 67.578125% 0;}
+.BECE_Mat_2018_5_Sol {max-width:228px; max-height:140px; }
+.BECE_Mat_2018_5_Sol::after {content: '\00a0';display: inline-block; width:228px; height:140px; background-position: 99.90079365079364% 1.7857142857142858%; background-size: 542.1052631578947% 140%; background-image: url(math2018_0.png);padding: 0; }
+div.BECE_Mat_2018_5_Sol::after {max-width:228px; width:100%;height:0;padding: 0 0 61.40350877192982% 0;}
+
+@keyframes BECE_Mat_2018-frames {
+    0% { background-position: 0.1040582726326743% 50%;  }
+    25% { background-position: 28.67494824016563% 16.666666666666668%;  }
+    50% { background-position: 52.94685990338164% 4.545454545454546%;  }
+    75% { background-position: 76.53061224489795% 4.3478260869565215%;  }
+}
+
+.BECE_Mat_2018-animation {
+    max-width: 275px;
+    max-height: 194px;
+}
+.BECE_Mat_2018-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 275px;
+    height: 194px;
+    padding: 0;
+    background-image: url(math2018_0.png);
+    background-size: 449.45454545454544% 101.03092783505154%; 
+    animation-name: BECE_Mat_2018-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Mat_2018-animation::after {
+    max-width: 275px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 70.54545454545455% 0;
+}
+
+/* $TexturePacker:SmartUpdate:93bfc5bfa589b9859691cccf32d8d6b2:630301a0ab46b3166d11043c9c63ddf3:4aab0caac7c257477cc665f023604a81$ */

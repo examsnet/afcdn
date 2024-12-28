@@ -7,43 +7,47 @@ Responsive: <div class="yourspritesname"></div>
 */
 
 .waec_geography_2022_paper_q_1 {max-width:157px; max-height:225px; }
-.waec_geography_2022_paper_q_1::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 50% 50%; background-size: 101.27388535031847% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
+.waec_geography_2022_paper_q_1::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 99.85775248933143% 50%; background-size: 547.7707006369427% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
 div.waec_geography_2022_paper_q_1::after {max-width:157px; width:100%;height:0;padding: 0 0 143.31210191082803% 0;}
+.waec_geography_2022_paper_q_10 {max-width:700px; max-height:225px; }
+.waec_geography_2022_paper_q_10::after {content: '\00a0';display: inline-block; width:700px; height:225px; background-position: 0.625% 50%; background-size: 122.85714285714286% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
+div.waec_geography_2022_paper_q_10::after {max-width:700px; width:100%;height:0;padding: 0 0 32.142857142857146% 0;}
 .waec_geography_2022_paper_q_2 {max-width:157px; max-height:225px; }
-.waec_geography_2022_paper_q_2::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 50% 50%; background-size: 101.27388535031847% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
+.waec_geography_2022_paper_q_2::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 99.85775248933143% 50%; background-size: 547.7707006369427% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
 div.waec_geography_2022_paper_q_2::after {max-width:157px; width:100%;height:0;padding: 0 0 143.31210191082803% 0;}
 .waec_geography_2022_paper_q_3 {max-width:157px; max-height:225px; }
-.waec_geography_2022_paper_q_3::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 50% 50%; background-size: 101.27388535031847% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
+.waec_geography_2022_paper_q_3::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 99.85775248933143% 50%; background-size: 547.7707006369427% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
 div.waec_geography_2022_paper_q_3::after {max-width:157px; width:100%;height:0;padding: 0 0 143.31210191082803% 0;}
 .waec_geography_2022_paper_q_4 {max-width:157px; max-height:225px; }
-.waec_geography_2022_paper_q_4::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 50% 50%; background-size: 101.27388535031847% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
+.waec_geography_2022_paper_q_4::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 99.85775248933143% 50%; background-size: 547.7707006369427% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
 div.waec_geography_2022_paper_q_4::after {max-width:157px; width:100%;height:0;padding: 0 0 143.31210191082803% 0;}
 .waec_geography_2022_paper_q_5 {max-width:157px; max-height:225px; }
-.waec_geography_2022_paper_q_5::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 50% 50%; background-size: 101.27388535031847% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
+.waec_geography_2022_paper_q_5::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 99.85775248933143% 50%; background-size: 547.7707006369427% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
 div.waec_geography_2022_paper_q_5::after {max-width:157px; width:100%;height:0;padding: 0 0 143.31210191082803% 0;}
 .waec_geography_2022_paper_q_6 {max-width:157px; max-height:225px; }
-.waec_geography_2022_paper_q_6::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 50% 50%; background-size: 101.27388535031847% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
+.waec_geography_2022_paper_q_6::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 99.85775248933143% 50%; background-size: 547.7707006369427% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
 div.waec_geography_2022_paper_q_6::after {max-width:157px; width:100%;height:0;padding: 0 0 143.31210191082803% 0;}
 .waec_geography_2022_paper_q_7 {max-width:157px; max-height:225px; }
-.waec_geography_2022_paper_q_7::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 50% 50%; background-size: 101.27388535031847% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
+.waec_geography_2022_paper_q_7::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 99.85775248933143% 50%; background-size: 547.7707006369427% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
 div.waec_geography_2022_paper_q_7::after {max-width:157px; width:100%;height:0;padding: 0 0 143.31210191082803% 0;}
 .waec_geography_2022_paper_q_8 {max-width:157px; max-height:225px; }
-.waec_geography_2022_paper_q_8::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 50% 50%; background-size: 101.27388535031847% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
+.waec_geography_2022_paper_q_8::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 99.85775248933143% 50%; background-size: 547.7707006369427% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
 div.waec_geography_2022_paper_q_8::after {max-width:157px; width:100%;height:0;padding: 0 0 143.31210191082803% 0;}
 .waec_geography_2022_paper_q_9 {max-width:157px; max-height:225px; }
-.waec_geography_2022_paper_q_9::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 50% 50%; background-size: 101.27388535031847% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
+.waec_geography_2022_paper_q_9::after {content: '\00a0';display: inline-block; width:157px; height:225px; background-position: 99.85775248933143% 50%; background-size: 547.7707006369427% 100.88888888888889%; background-image: url(waecgeog2022_0.png);padding: 0; }
 div.waec_geography_2022_paper_q_9::after {max-width:157px; width:100%;height:0;padding: 0 0 143.31210191082803% 0;}
 
 @keyframes waec_geography_2022_paper_q-frames {
-    0% { background-position: 50% 50%;  }
-    11.11111111111111% { background-position: 50% 50%;  }
-    22.22222222222222% { background-position: 50% 50%;  }
-    33.33333333333333% { background-position: 50% 50%;  }
-    44.44444444444444% { background-position: 50% 50%;  }
-    55.55555555555556% { background-position: 50% 50%;  }
-    66.66666666666666% { background-position: 50% 50%;  }
-    77.77777777777779% { background-position: 50% 50%;  }
-    88.88888888888889% { background-position: 50% 50%;  }
+    0% { background-position: 99.85775248933143% 50%;  }
+    10% { background-position: 99.85775248933143% 50%;  }
+    20% { background-position: 99.85775248933143% 50%;  }
+    30% { background-position: 99.85775248933143% 50%;  }
+    40% { background-position: 99.85775248933143% 50%;  }
+    50% { background-position: 99.85775248933143% 50%;  }
+    60% { background-position: 99.85775248933143% 50%;  }
+    70% { background-position: 99.85775248933143% 50%;  }
+    80% { background-position: 99.85775248933143% 50%;  }
+    90% { background-position: 0.625% 50%;  }
 }
 
 .waec_geography_2022_paper_q-animation {
@@ -57,7 +61,7 @@ div.waec_geography_2022_paper_q_9::after {max-width:157px; width:100%;height:0;p
     height: 225px;
     padding: 0;
     background-image: url(waecgeog2022_0.png);
-    background-size: 101.27388535031847% 100.88888888888889%; 
+    background-size: 547.7707006369427% 100.88888888888889%; 
     animation-name: waec_geography_2022_paper_q-frames;
     animation-timing-function: steps(1);
     animation-duration: 1s;
@@ -70,4 +74,4 @@ div.waec_geography_2022_paper_q-animation::after {
     padding: 0 0 143.31210191082803% 0;
 }
 
-/* $TexturePacker:SmartUpdate:abee5944b7790649618a3559704a1081:ada4f1867d0f05f2687d28307caf43d4:2c05a042ee149ed6c418a68317a0643e$ */
+/* $TexturePacker:SmartUpdate:d714c976a3e3978544c4032035ad5bfd:40bd442f4da660c64b21aa6459d78cbe:2c05a042ee149ed6c418a68317a0643e$ */

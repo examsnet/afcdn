@@ -1,0 +1,69 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Home_Eco_2017_6 {max-width:500px; max-height:275px; }
+.BECE_Home_Eco_2017_6::after {content: '\00a0';display: inline-block; width:500px; height:275px; background-position: 50% 39.285714285714285%; background-size: 100.4% 364.72727272727275%; background-image: url(heco2017_0.png);padding: 0; }
+div.BECE_Home_Eco_2017_6::after {max-width:500px; width:100%;height:0;padding: 0 0 55% 0;}
+.BECE_Home_Eco_2017_6_a {max-width:146px; max-height:94px; }
+.BECE_Home_Eco_2017_6_a::after {content: '\00a0';display: inline-block; width:146px; height:94px; background-position: 94.10112359550561% 99.8899889988999%; background-size: 343.83561643835617% 1067.0212765957447%; background-image: url(heco2017_0.png);padding: 0; }
+div.BECE_Home_Eco_2017_6_a::after {max-width:146px; width:100%;height:0;padding: 0 0 64.38356164383562% 0;}
+.BECE_Home_Eco_2017_6_b {max-width:161px; max-height:129px; }
+.BECE_Home_Eco_2017_6_b::after {content: '\00a0';display: inline-block; width:161px; height:129px; background-position: 50.733137829912025% 93.13501144164759%; background-size: 311.80124223602485% 777.5193798449612%; background-image: url(heco2017_0.png);padding: 0; }
+div.BECE_Home_Eco_2017_6_b::after {max-width:161px; width:100%;height:0;padding: 0 0 80.12422360248448% 0;}
+.BECE_Home_Eco_2017_6_c {max-width:171px; max-height:133px; }
+.BECE_Home_Eco_2017_6_c::after {content: '\00a0';display: inline-block; width:171px; height:133px; background-position: 0.3021148036253776% 94.59770114942529%; background-size: 293.5672514619883% 754.1353383458646%; background-image: url(heco2017_0.png);padding: 0; }
+div.BECE_Home_Eco_2017_6_c::after {max-width:171px; width:100%;height:0;padding: 0 0 77.77777777777777% 0;}
+.BECE_Home_Eco_2017_6_d {max-width:149px; max-height:128px; }
+.BECE_Home_Eco_2017_6_d::after {content: '\00a0';display: inline-block; width:149px; height:128px; background-position: 90.65155807365439% 64.22857142857143%; background-size: 336.9127516778523% 783.59375%; background-image: url(heco2017_0.png);padding: 0; }
+div.BECE_Home_Eco_2017_6_d::after {max-width:149px; width:100%;height:0;padding: 0 0 85.90604026845638% 0;}
+.BECE_Home_Eco_2017_7 {max-width:485px; max-height:284px; }
+.BECE_Home_Eco_2017_7::after {content: '\00a0';display: inline-block; width:485px; height:284px; background-position: 5.882352941176471% 0.13908205841446453%; background-size: 103.50515463917526% 353.16901408450707%; background-image: url(heco2017_0.png);padding: 0; }
+div.BECE_Home_Eco_2017_7::after {max-width:485px; width:100%;height:0;padding: 0 0 58.55670103092783% 0;}
+.BECE_Home_Eco_2017_7_a {max-width:160px; max-height:108px; }
+.BECE_Home_Eco_2017_7_a::after {content: '\00a0';display: inline-block; width:160px; height:108px; background-position: 93.5672514619883% 77.20670391061452%; background-size: 313.75% 928.7037037037037%; background-image: url(heco2017_0.png);padding: 0; }
+div.BECE_Home_Eco_2017_7_a::after {max-width:160px; width:100%;height:0;padding: 0 0 67.5% 0;}
+.BECE_Home_Eco_2017_7_b {max-width:160px; max-height:107px; }
+.BECE_Home_Eco_2017_7_b::after {content: '\00a0';display: inline-block; width:160px; height:107px; background-position: 97.953216374269% 89.28571428571429%; background-size: 313.75% 937.3831775700935%; background-image: url(heco2017_0.png);padding: 0; }
+div.BECE_Home_Eco_2017_7_b::after {max-width:160px; width:100%;height:0;padding: 0 0 66.875% 0;}
+.BECE_Home_Eco_2017_7_c {max-width:160px; max-height:251px; }
+.BECE_Home_Eco_2017_7_c::after {content: '\00a0';display: inline-block; width:160px; height:251px; background-position: 46.49122807017544% 74.73404255319149%; background-size: 313.75% 399.601593625498%; background-image: url(heco2017_0.png);padding: 0; }
+div.BECE_Home_Eco_2017_7_c::after {max-width:160px; width:100%;height:0;padding: 0 0 156.875% 0;}
+.BECE_Home_Eco_2017_7_d {max-width:157px; max-height:260px; }
+.BECE_Home_Eco_2017_7_d::after {content: '\00a0';display: inline-block; width:157px; height:260px; background-position: 0.2898550724637681% 75.6393001345895%; background-size: 319.7452229299363% 385.7692307692308%; background-image: url(heco2017_0.png);padding: 0; }
+div.BECE_Home_Eco_2017_7_d::after {max-width:157px; width:100%;height:0;padding: 0 0 165.60509554140128% 0;}
+
+@keyframes BECE_Home_Eco_2017-frames {
+    0% { background-position: 50% 39.285714285714285%;  }
+    50% { background-position: 5.882352941176471% 0.13908205841446453%;  }
+}
+
+.BECE_Home_Eco_2017-animation {
+    max-width: 500px;
+    max-height: 275px;
+}
+.BECE_Home_Eco_2017-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 500px;
+    height: 275px;
+    padding: 0;
+    background-image: url(heco2017_0.png);
+    background-size: 100.4% 364.72727272727275%; 
+    animation-name: BECE_Home_Eco_2017-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Home_Eco_2017-animation::after {
+    max-width: 500px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 55% 0;
+}
+
+/* $TexturePacker:SmartUpdate:54ec796801839eef6538965e132f6681:51bb963758af38e0da7d489b8f3b9459:55554fe7289d4772427b152a0e3cf2c0$ */

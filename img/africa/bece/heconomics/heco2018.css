@@ -1,0 +1,69 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Home_Eco_2018_5 {max-width:470px; max-height:324px; }
+.BECE_Home_Eco_2018_5::after {content: '\00a0';display: inline-block; width:470px; height:324px; background-position: 12.5% 52.312599681020735%; background-size: 101.70212765957447% 293.51851851851853%; background-image: url(heco2018_0.png);padding: 0; }
+div.BECE_Home_Eco_2018_5::after {max-width:470px; width:100%;height:0;padding: 0 0 68.93617021276596% 0;}
+.BECE_Home_Eco_2018_5_a {max-width:158px; max-height:97px; }
+.BECE_Home_Eco_2018_5_a::after {content: '\00a0';display: inline-block; width:158px; height:97px; background-position: 0.3125% 99.41451990632318%; background-size: 302.53164556962025% 980.4123711340206%; background-image: url(heco2018_0.png);padding: 0; }
+div.BECE_Home_Eco_2018_5_a::after {max-width:158px; width:100%;height:0;padding: 0 0 61.392405063291136% 0;}
+.BECE_Home_Eco_2018_5_b {max-width:153px; max-height:97px; }
+.BECE_Home_Eco_2018_5_b::after {content: '\00a0';display: inline-block; width:153px; height:97px; background-position: 49.23076923076923% 98.94613583138174%; background-size: 312.41830065359477% 980.4123711340206%; background-image: url(heco2018_0.png);padding: 0; }
+div.BECE_Home_Eco_2018_5_b::after {max-width:153px; width:100%;height:0;padding: 0 0 63.39869281045752% 0;}
+.BECE_Home_Eco_2018_5_c {max-width:155px; max-height:99px; }
+.BECE_Home_Eco_2018_5_c::after {content: '\00a0';display: inline-block; width:155px; height:99px; background-position: 0.30959752321981426% 87.91079812206573%; background-size: 308.38709677419354% 960.6060606060606%; background-image: url(heco2018_0.png);padding: 0; }
+div.BECE_Home_Eco_2018_5_c::after {max-width:155px; width:100%;height:0;padding: 0 0 63.87096774193548% 0;}
+.BECE_Home_Eco_2018_5_d {max-width:158px; max-height:94px; }
+.BECE_Home_Eco_2018_5_d::after {content: '\00a0';display: inline-block; width:158px; height:94px; background-position: 99.6875% 88.79813302217036%; background-size: 302.53164556962025% 1011.7021276595744%; background-image: url(heco2018_0.png);padding: 0; }
+div.BECE_Home_Eco_2018_5_d::after {max-width:158px; width:100%;height:0;padding: 0 0 59.49367088607595% 0;}
+.BECE_Home_Eco_2018_6 {max-width:476px; max-height:326px; }
+.BECE_Home_Eco_2018_6::after {content: '\00a0';display: inline-block; width:476px; height:326px; background-position: 50% 0.16%; background-size: 100.4201680672269% 291.7177914110429%; background-image: url(heco2018_0.png);padding: 0; }
+div.BECE_Home_Eco_2018_6::after {max-width:476px; width:100%;height:0;padding: 0 0 68.4873949579832% 0;}
+.BECE_Home_Eco_2018_6_a {max-width:161px; max-height:83px; }
+.BECE_Home_Eco_2018_6_a::after {content: '\00a0';display: inline-block; width:161px; height:83px; background-position: 49.526813880126184% 87.67281105990783%; background-size: 296.8944099378882% 1145.7831325301204%; background-image: url(heco2018_0.png);padding: 0; }
+div.BECE_Home_Eco_2018_6_a::after {max-width:161px; width:100%;height:0;padding: 0 0 51.5527950310559% 0;}
+.BECE_Home_Eco_2018_6_b {max-width:157px; max-height:107px; }
+.BECE_Home_Eco_2018_6_b::after {content: '\00a0';display: inline-block; width:157px; height:107px; background-position: 57.00934579439252% 77.3696682464455%; background-size: 304.45859872611464% 888.7850467289719%; background-image: url(heco2018_0.png);padding: 0; }
+div.BECE_Home_Eco_2018_6_b::after {max-width:157px; width:100%;height:0;padding: 0 0 68.15286624203821% 0;}
+.BECE_Home_Eco_2018_6_c {max-width:181px; max-height:95px; }
+.BECE_Home_Eco_2018_6_c::after {content: '\00a0';display: inline-block; width:181px; height:95px; background-position: 0.3367003367003367% 76.28504672897196%; background-size: 264.08839779005524% 1001.0526315789474%; background-image: url(heco2018_0.png);padding: 0; }
+div.BECE_Home_Eco_2018_6_c::after {max-width:181px; width:100%;height:0;padding: 0 0 52.48618784530387% 0;}
+.BECE_Home_Eco_2018_6_d {max-width:163px; max-height:94px; }
+.BECE_Home_Eco_2018_6_d::after {content: '\00a0';display: inline-block; width:163px; height:94px; background-position: 99.68253968253968% 99.88331388564761%; background-size: 293.2515337423313% 1011.7021276595744%; background-image: url(heco2018_0.png);padding: 0; }
+div.BECE_Home_Eco_2018_6_d::after {max-width:163px; width:100%;height:0;padding: 0 0 57.668711656441715% 0;}
+
+@keyframes BECE_Home_Eco_2018-frames {
+    0% { background-position: 12.5% 52.312599681020735%;  }
+    50% { background-position: 50% 0.16%;  }
+}
+
+.BECE_Home_Eco_2018-animation {
+    max-width: 470px;
+    max-height: 324px;
+}
+.BECE_Home_Eco_2018-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 470px;
+    height: 324px;
+    padding: 0;
+    background-image: url(heco2018_0.png);
+    background-size: 101.70212765957447% 293.51851851851853%; 
+    animation-name: BECE_Home_Eco_2018-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Home_Eco_2018-animation::after {
+    max-width: 470px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 68.93617021276596% 0;
+}
+
+/* $TexturePacker:SmartUpdate:8dca0f475fc719df0b4fc30bd26da383:825973f412e023f747eb48549a48c1c7:53566bbab539f71588c1618877ab76aa$ */

@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.BECE_Home_Eco_2021_5 {max-width:503px; max-height:303px; }
+.BECE_Home_Eco_2021_5::after {content: '\00a0';display: inline-block; width:503px; height:303px; background-position: 0.1949317738791423% 50%; background-size: 201.98807157057655% 100.66006600660066%; background-image: url(heco2021_0.png);padding: 0; }
+div.BECE_Home_Eco_2021_5::after {max-width:503px; width:100%;height:0;padding: 0 0 60.238568588469185% 0;}
+.BECE_Home_Eco_2021_6 {max-width:510px; max-height:299px; }
+.BECE_Home_Eco_2021_6::after {content: '\00a0';display: inline-block; width:510px; height:299px; background-position: 99.80237154150197% 16.666666666666668%; background-size: 199.2156862745098% 102.0066889632107%; background-image: url(heco2021_0.png);padding: 0; }
+div.BECE_Home_Eco_2021_6::after {max-width:510px; width:100%;height:0;padding: 0 0 58.627450980392155% 0;}
+
+@keyframes BECE_Home_Eco_2021-frames {
+    0% { background-position: 0.1949317738791423% 50%;  }
+    50% { background-position: 99.80237154150197% 16.666666666666668%;  }
+}
+
+.BECE_Home_Eco_2021-animation {
+    max-width: 503px;
+    max-height: 303px;
+}
+.BECE_Home_Eco_2021-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 503px;
+    height: 303px;
+    padding: 0;
+    background-image: url(heco2021_0.png);
+    background-size: 201.98807157057655% 100.66006600660066%; 
+    animation-name: BECE_Home_Eco_2021-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.BECE_Home_Eco_2021-animation::after {
+    max-width: 503px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 60.238568588469185% 0;
+}
+
+/* $TexturePacker:SmartUpdate:5e40b8e17e20c85b68740cb89472afa9:2901350b71d7397afc3dfb33a8dbfcdf:ff914efed61615a7dbde07716bfefe38$ */

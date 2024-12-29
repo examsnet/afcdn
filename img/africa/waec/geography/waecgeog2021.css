@@ -1,0 +1,49 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_geography_2021_paper_q_10 {max-width:250px; max-height:347px; }
+.waec_geography_2021_paper_q_10::after {content: '\00a0';display: inline-block; width:250px; height:347px; background-position: 50% 50%; background-size: 100.8% 100.57636887608069%; background-image: url(waecgeog2021_0.png);padding: 0; }
+div.waec_geography_2021_paper_q_10::after {max-width:250px; width:100%;height:0;padding: 0 0 138.8% 0;}
+.waec_geography_2021_paper_q_8 {max-width:250px; max-height:347px; }
+.waec_geography_2021_paper_q_8::after {content: '\00a0';display: inline-block; width:250px; height:347px; background-position: 50% 50%; background-size: 100.8% 100.57636887608069%; background-image: url(waecgeog2021_0.png);padding: 0; }
+div.waec_geography_2021_paper_q_8::after {max-width:250px; width:100%;height:0;padding: 0 0 138.8% 0;}
+.waec_geography_2021_paper_q_9 {max-width:250px; max-height:347px; }
+.waec_geography_2021_paper_q_9::after {content: '\00a0';display: inline-block; width:250px; height:347px; background-position: 50% 50%; background-size: 100.8% 100.57636887608069%; background-image: url(waecgeog2021_0.png);padding: 0; }
+div.waec_geography_2021_paper_q_9::after {max-width:250px; width:100%;height:0;padding: 0 0 138.8% 0;}
+
+@keyframes waec_geography_2021_paper_q-frames {
+    0% { background-position: 50% 50%;  }
+    33.33333333333333% { background-position: 50% 50%;  }
+    66.66666666666666% { background-position: 50% 50%;  }
+}
+
+.waec_geography_2021_paper_q-animation {
+    max-width: 250px;
+    max-height: 347px;
+}
+.waec_geography_2021_paper_q-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 250px;
+    height: 347px;
+    padding: 0;
+    background-image: url(waecgeog2021_0.png);
+    background-size: 100.8% 100.57636887608069%; 
+    animation-name: waec_geography_2021_paper_q-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_geography_2021_paper_q-animation::after {
+    max-width: 250px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 138.8% 0;
+}
+
+/* $TexturePacker:SmartUpdate:5b7a80893cdc1911178580d94280075f:efeeb4dceddbea76d8f27b461ccdbcb3:553bbfef193863b1b051825dbf780c6e$ */

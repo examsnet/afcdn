@@ -1,0 +1,45 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+.waec_further_mathematics_2024_paper_sol_19 {max-width:254px; max-height:333px; }
+.waec_further_mathematics_2024_paper_sol_19::after {content: '\00a0';display: inline-block; width:254px; height:333px; background-position: 1.8867924528301887% 99.54337899543378%; background-size: 120.86614173228347% 165.76576576576576%; background-image: url(waecfurmath2024_0.png);padding: 0; }
+div.waec_further_mathematics_2024_paper_sol_19::after {max-width:254px; width:100%;height:0;padding: 0 0 131.10236220472441% 0;}
+.waec_further_mathematics_2024_paper_sol_30 {max-width:305px; max-height:216px; }
+.waec_further_mathematics_2024_paper_sol_30::after {content: '\00a0';display: inline-block; width:305px; height:216px; background-position: 50% 0.2976190476190476%; background-size: 100.65573770491804% 255.55555555555554%; background-image: url(waecfurmath2024_0.png);padding: 0; }
+div.waec_further_mathematics_2024_paper_sol_30::after {max-width:305px; width:100%;height:0;padding: 0 0 70.81967213114754% 0;}
+
+@keyframes waec_further_mathematics_2024_paper_sol-frames {
+    0% { background-position: 1.8867924528301887% 99.54337899543378%;  }
+    50% { background-position: 50% 0.2976190476190476%;  }
+}
+
+.waec_further_mathematics_2024_paper_sol-animation {
+    max-width: 254px;
+    max-height: 333px;
+}
+.waec_further_mathematics_2024_paper_sol-animation::after {
+    content: '\00a0';
+    display: inline-block;
+    width: 254px;
+    height: 333px;
+    padding: 0;
+    background-image: url(waecfurmath2024_0.png);
+    background-size: 120.86614173228347% 165.76576576576576%; 
+    animation-name: waec_further_mathematics_2024_paper_sol-frames;
+    animation-timing-function: steps(1);
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+div.waec_further_mathematics_2024_paper_sol-animation::after {
+    max-width: 254px;
+    width: 100%;
+    height: 0;
+    padding: 0 0 131.10236220472441% 0;
+}
+
+/* $TexturePacker:SmartUpdate:e71a547521f655de25801ca6a965a43b:6840051fd6a10aeb9d7da3297b52db60:df4ccc24b29172459ccf36aab83fea61$ */
